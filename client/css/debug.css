@@ -1,0 +1,161 @@
+.server,
+.log {
+  border-color: var(--inactive-border-color);
+}
+
+.server>details,
+.log details {
+  border-top: 1px dashed;
+  font-family: monospace;
+  color: #808;
+  background: #fff;
+}
+
+.server>details {
+  padding: 0.5em;
+  white-space: nowrap;
+  overflow: auto;
+}
+
+.log details {
+  padding: 0.25em 0.25em 0.25em 1.65em;
+  word-break: break-word;
+}
+
+.log summary {
+  margin: 0 0 0 -1.65em;
+  padding: 0.25em 0.5em;
+}
+
+.value-primitive,
+.value-non-primitive {
+  margin: 0 0 0 1em;
+}
+
+details.value-non-primitive {
+  margin: 0;
+}
+
+.property-enumerable,
+.property-non-enumerable {
+  margin: 0 0 0 1em;
+}
+
+.property-enumerable>.property-key {
+  font-weight: bold;
+}
+
+.property-non-enumerable>.property-key {
+  opacity: 0.75;
+}
+
+.property-descriptor {
+  color: #888;
+  font-style: italic;
+}
+
+.type-boolean {
+  color: #008;
+}
+
+.type-function {
+  color: #222;
+}
+
+.type-number {
+  color: #008;
+}
+
+.type-object {
+  color: #222;
+}
+
+.type-string {
+  color: #800;
+}
+
+.type-string::before,
+.type-string::after {
+  content: "\"";
+}
+
+.type-symbol {
+  color: #088;
+}
+
+.type-undefined {
+  color: #888;
+}
+
+.timestamp {
+  float: right;
+  color: #888;
+  font-size: 0.8em;
+  font-style: italic;
+}
+
+.log pre {
+  margin: 0;
+  overflow: auto;
+}
+
+.log details.log-log {
+  color: #000;
+  background: #fff;
+}
+
+.log details.log-warn {
+  color: #440;
+  background: #fec;
+}
+
+.log details.log-error {
+  color: #f00;
+  background: #fee;
+}
+
+.sticky-footer {
+  position: sticky;
+  bottom: 0;
+  background: #fff;
+  padding: 0.5em;
+  box-shadow: 0 -0.25em 0.5em -0.25em #000;
+  margin: 1em 0;
+  display: flex;
+  white-space: nowrap;
+  overflow: auto;
+}
+
+.sticky-footer .mpc-button {
+  margin: 0 0.25em;
+  text-decoration: none;
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+#hide_log:checked~.log-log {
+  display: none;
+}
+
+#hide_warn:checked~.log-warn {
+  display: none;
+}
+
+#hide_error:checked~.log-error {
+  display: none;
+}
+
+#hide_log:checked~.sticky-footer label[for="hide_log"] {
+  filter: grayscale(1);
+  background-color: #eee;
+}
+
+#hide_warn:checked~.sticky-footer label[for="hide_warn"] {
+  filter: grayscale(1);
+  background-color: #eee;
+}
+
+#hide_error:checked~.sticky-footer label[for="hide_error"] {
+  filter: grayscale(1);
+  background-color: #eee;
+}

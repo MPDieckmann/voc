@@ -1,0 +1,79 @@
+.table-scroller {
+  margin: 15px 10px;
+  overflow: auto;
+}
+
+.debug {
+  /* display: none; */
+  font-size: 12px;
+  /* color: #666; */
+  padding: 0 4px;
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+table {
+  width: 100%;
+  border: 2px solid #000;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+th, td, caption {
+  border: 1px solid;
+  text-align: center;
+  padding: 0.25em;
+}
+
+th, td {
+  border-left-color: #aaa;
+  border-right-color: #aaa;
+}
+
+caption {
+  border-width: 2px;
+  border-bottom: none;
+  background: #ffc;
+  font-weight: bold;
+}
+
+thead,
+tfoot {
+  background: #ddd;
+}
+
+thead tr:hover,
+tfoot tr:hover {
+  background: #ffa;
+}
+
+thead th {
+  border-bottom-width: 2px;
+}
+
+tbody tr:nth-child(odd) {
+  background: #fff;
+}
+
+tbody tr:hover {
+  background: #ffc;
+}
+
+td[lang="heb"] {
+  direction: rtl;
+  font-weight: bold;
+  font-size: 1.125em;
+  line-height: 1em;
+  font-family: "Calibri", "Tahoma", "Segoe UI", "Lucida Sans Unicode", "SBL Hebrew", "Times New Roman", serif;
+}
+
+th i,
+td i {
+  color: #f00;
+  font-style: normal;
+  font-weight: normal;
+}
+
+th a {
+  text-decoration: none;
+}

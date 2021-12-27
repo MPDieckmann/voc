@@ -1,0 +1,34 @@
+<form class="card" method="post">
+  <p>Vokabelzeilen hier einfügen</p>
+  <label for="data">
+    <textarea id="data" name="data" class="mpc-label-textarea" placeholder="0&Tab;0&Tab;0&Tab;0&Tab;Hebräisch&Tab;Transkription&Tab;Deutsch&Tab;Hinweise"></textarea>
+  </label>
+  <button id="check_button" class="mpc-button mpc-button-type-button" type="button">
+    <span class="mpc-button-text">Überprüfen</span>
+  </button>
+  <div class="table-scroller">
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th>Deutsch</th>
+          <th>Transkription</th>
+          <th>Hebr&auml;isch</th>
+          <th>Hinweise</th>
+        </tr>
+      </thead>
+      <tbody id="cells"></tbody>
+      <tfoot>
+        <tr>
+          <td colspan="8" id="info"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+  <button id="submit_button" class="mpc-button mpc-button-type-submit" type="submit">
+    <span class="mpc-button-text">Hochladen</span>
+  </button>
+</form>

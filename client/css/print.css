@@ -1,0 +1,72 @@
+@media print {
+  html,
+  html body {
+    background: none;
+  }
+
+  html #header,
+  html main {
+    max-width: 1000px;
+    margin: 0 auto;
+    clear: both;
+  }
+
+  html .menu-button {
+    display: none;
+  }
+
+  html .searchform {
+    background: #fff;
+    margin: 0;
+    padding: 0;
+    position: static;
+    box-shadow: none;
+    border-width: 0;
+    border-top-width: 4px;
+  }
+
+  html .mpc-grid .mpc-label {
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 0 0.5em;
+  }
+
+  html .mpc-grid .mpc-label>* {
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    flex: 1 1 auto;
+  }
+
+  html .mpc-grid .mpc-label>.mpc-label-title {
+    flex: 0 0 auto;
+  }
+
+  html .mpc-label-button {
+    display: none;
+  }
+
+  html label[for="query"]::before {
+    content: "Stichwort:";
+    padding-right: 0.25em;
+    color: var(--theme-color);
+    vertical-align: top;
+    font: var(--font-sans-serif);
+    line-height: 1.5em;
+  }
+
+  html label[for="query"] {
+    order: -1;
+    flex: 1 1 100%;
+  }
+
+  html label[for="sort_by"] {
+    display: none;
+  }
+
+  html #main-header-switch+#main-header label[for="main-header-switch"] {
+    display: none;
+  }
+}

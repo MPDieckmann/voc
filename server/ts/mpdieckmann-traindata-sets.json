@@ -1,0 +1,1409 @@
+[
+    {
+        "id": "01-01",
+        "lesson": 1,
+        "points": 13,
+        "tries": 13,
+        "is_well_known": 1
+    },
+    {
+        "id": "01-10",
+        "lesson": 1,
+        "points": 5,
+        "tries": 5,
+        "is_known": 1
+    },
+    {
+        "id": "01-13",
+        "lesson": 1,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "01-14",
+        "lesson": 1,
+        "points": 8,
+        "tries": 8,
+        "is_well_known": 1
+    },
+    {
+        "id": "01-15",
+        "lesson": 1,
+        "points": 8,
+        "tries": 8,
+        "is_well_known": 1
+    },
+    {
+        "id": "01-20",
+        "lesson": 1,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "01-21",
+        "lesson": 1,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "01-22",
+        "lesson": 1,
+        "points": 6,
+        "tries": 6,
+        "is_well_known": 1
+    },
+    {
+        "id": "01-23",
+        "lesson": 1,
+        "points": 8,
+        "tries": 8,
+        "is_well_known": 1
+    },
+    {
+        "id": "01-24",
+        "lesson": 1,
+        "points": 1,
+        "tries": 5,
+        "is_known": 1
+    },
+    {
+        "id": "01-25",
+        "lesson": 1,
+        "points": 10.5,
+        "tries": 11,
+        "is_well_known": 1
+    },
+    {
+        "id": "01-29",
+        "lesson": 1,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "01-30",
+        "lesson": 1,
+        "points": 8,
+        "tries": 8,
+        "is_well_known": 1
+    },
+    {
+        "id": "01-34",
+        "lesson": 1,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "01-35",
+        "lesson": 1,
+        "points": 6,
+        "tries": 6,
+        "is_known": 1
+    },
+    {
+        "id": "01-39",
+        "lesson": 1,
+        "points": 5,
+        "tries": 5,
+        "is_known": 1
+    },
+    {
+        "id": "01-40",
+        "lesson": 1,
+        "points": 7,
+        "tries": 7,
+        "is_well_known": 1
+    },
+    {
+        "id": "01-41",
+        "lesson": 1,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "01-45",
+        "lesson": 1,
+        "points": 4.5,
+        "tries": 5,
+        "is_known": 1
+    },
+    {
+        "id": "01-07",
+        "lesson": 1,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "02-10",
+        "lesson": 2,
+        "points": 6,
+        "tries": 6,
+        "is_well_known": 1
+    },
+    {
+        "id": "02-14",
+        "lesson": 2,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "02-18",
+        "lesson": 2,
+        "points": 0.5,
+        "tries": 6,
+        "is_known": 1
+    },
+    {
+        "id": "02-02",
+        "lesson": 2,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "02-20",
+        "lesson": 2,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "02-21",
+        "lesson": 2,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "02-22",
+        "lesson": 2,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "02-23",
+        "lesson": 2,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "02-24",
+        "lesson": 2,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "02-25",
+        "lesson": 2,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "02-27",
+        "lesson": 2,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "02-29",
+        "lesson": 2,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "02-30",
+        "lesson": 2,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "02-06",
+        "lesson": 2,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "03-01",
+        "lesson": 3,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "03-11",
+        "lesson": 3,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "03-12",
+        "lesson": 3,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "03-14",
+        "lesson": 3,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "03-15",
+        "lesson": 3,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "03-17",
+        "lesson": 3,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "03-19",
+        "lesson": 3,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "03-02",
+        "lesson": 3,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "03-22",
+        "lesson": 3,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "03-24",
+        "lesson": 3,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "03-26",
+        "lesson": 3,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "03-27",
+        "lesson": 3,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "03-28",
+        "lesson": 3,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "03-03",
+        "lesson": 3,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "03-30",
+        "lesson": 3,
+        "points": 0,
+        "tries": 6
+    },
+    {
+        "id": "03-32",
+        "lesson": 3,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "03-33",
+        "lesson": 3,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "03-34",
+        "lesson": 3,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "03-04",
+        "lesson": 3,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "03-05",
+        "lesson": 3,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "03-06",
+        "lesson": 3,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "03-08",
+        "lesson": 3,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-01",
+        "lesson": 4,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "04-11",
+        "lesson": 4,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "04-12",
+        "lesson": 4,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "04-16",
+        "lesson": 4,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "04-17",
+        "lesson": 4,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "04-19",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-02",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-21",
+        "lesson": 4,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "04-22",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-23",
+        "lesson": 4,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "04-25",
+        "lesson": 4,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "04-26",
+        "lesson": 4,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "04-27",
+        "lesson": 4,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "04-28",
+        "lesson": 4,
+        "points": -2,
+        "tries": 2,
+        "is_unknown": 1
+    },
+    {
+        "id": "04-29",
+        "lesson": 4,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "04-03",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-30",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-32",
+        "lesson": 4,
+        "points": 5,
+        "tries": 5,
+        "is_known": 1
+    },
+    {
+        "id": "04-33",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-34",
+        "lesson": 4,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "04-36",
+        "lesson": 4,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "04-37",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-41",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-42",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-43",
+        "lesson": 4,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "04-05",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-07",
+        "lesson": 4,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "04-09",
+        "lesson": 4,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "05-01",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-10",
+        "lesson": 5,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "05-12",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-16",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-02",
+        "lesson": 5,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "05-20",
+        "lesson": 5,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "05-22",
+        "lesson": 5,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "05-24",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-26",
+        "lesson": 5,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "05-29",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-03",
+        "lesson": 5,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "05-33",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-35",
+        "lesson": 5,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "05-37",
+        "lesson": 5,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "05-38",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-39",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-04",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-41",
+        "lesson": 5,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "05-45",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-46",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-48",
+        "lesson": 5,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "05-49",
+        "lesson": 5,
+        "points": -2,
+        "tries": 4,
+        "is_unknown": 1
+    },
+    {
+        "id": "05-05",
+        "lesson": 5,
+        "points": 3,
+        "tries": 5,
+        "is_known": 1
+    },
+    {
+        "id": "05-51",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-52",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-54",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-55",
+        "lesson": 5,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "05-56",
+        "lesson": 5,
+        "points": 7,
+        "tries": 7,
+        "is_well_known": 1
+    },
+    {
+        "id": "05-57",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-59",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-60",
+        "lesson": 5,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "05-61",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-62",
+        "lesson": 5,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "05-64",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-68",
+        "lesson": 5,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "05-07",
+        "lesson": 5,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "05-70",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-72",
+        "lesson": 5,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "05-73",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-74",
+        "lesson": 5,
+        "points": 0,
+        "tries": 6
+    },
+    {
+        "id": "05-76",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-08",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-80",
+        "lesson": 5,
+        "points": -4,
+        "tries": 4,
+        "is_unknown": 1
+    },
+    {
+        "id": "05-82",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "05-84",
+        "lesson": 5,
+        "points": -3,
+        "tries": 3,
+        "is_unknown": 1
+    },
+    {
+        "id": "05-87",
+        "lesson": 5,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "05-88",
+        "lesson": 5,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "06-01",
+        "lesson": 6,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "06-11",
+        "lesson": 6,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "06-13",
+        "lesson": 6,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "06-15",
+        "lesson": 6,
+        "points": 1,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "06-17",
+        "lesson": 6,
+        "points": 0,
+        "tries": 4
+    },
+    {
+        "id": "06-18",
+        "lesson": 6,
+        "points": 5,
+        "tries": 5,
+        "is_known": 1
+    },
+    {
+        "id": "06-02",
+        "lesson": 6,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "06-20",
+        "lesson": 6,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "06-21",
+        "lesson": 6,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "06-24",
+        "lesson": 6,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "06-25",
+        "lesson": 6,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "06-26",
+        "lesson": 6,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "06-27",
+        "lesson": 6,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "06-28",
+        "lesson": 6,
+        "points": -8,
+        "tries": 8,
+        "is_very_unknown": 1
+    },
+    {
+        "id": "06-32",
+        "lesson": 6,
+        "points": 7,
+        "tries": 7,
+        "is_well_known": 1
+    },
+    {
+        "id": "06-33",
+        "lesson": 6,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "06-35",
+        "lesson": 6,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "06-37",
+        "lesson": 6,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "06-39",
+        "lesson": 6,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "06-04",
+        "lesson": 6,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "06-40",
+        "lesson": 6,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "06-41",
+        "lesson": 6,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "06-06",
+        "lesson": 6,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "06-07",
+        "lesson": 6,
+        "points": -5,
+        "tries": 7,
+        "is_very_unknown": 1
+    },
+    {
+        "id": "07-01",
+        "lesson": 7,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "07-10",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-11",
+        "lesson": 7,
+        "points": 1,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "07-12",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-16",
+        "lesson": 7,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "07-17",
+        "lesson": 7,
+        "points": 0,
+        "tries": 4
+    },
+    {
+        "id": "07-19",
+        "lesson": 7,
+        "points": -2,
+        "tries": 2,
+        "is_unknown": 1
+    },
+    {
+        "id": "07-20",
+        "lesson": 7,
+        "points": -4,
+        "tries": 4,
+        "is_unknown": 1
+    },
+    {
+        "id": "07-24",
+        "lesson": 7,
+        "points": -2,
+        "tries": 2,
+        "is_unknown": 1
+    },
+    {
+        "id": "07-26",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-28",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-03",
+        "lesson": 7,
+        "points": -2,
+        "tries": 2,
+        "is_unknown": 1
+    },
+    {
+        "id": "07-30",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-31",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-32",
+        "lesson": 7,
+        "points": 6,
+        "tries": 6,
+        "is_well_known": 1
+    },
+    {
+        "id": "07-33",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-35",
+        "lesson": 7,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "07-36",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-38",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-04",
+        "lesson": 7,
+        "points": 3,
+        "tries": 3,
+        "is_known": 1
+    },
+    {
+        "id": "07-40",
+        "lesson": 7,
+        "points": 1,
+        "tries": 1,
+        "is_known": 1
+    },
+    {
+        "id": "07-42",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-44",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-46",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-48",
+        "lesson": 7,
+        "points": -1,
+        "tries": 1,
+        "is_unknown": 1
+    },
+    {
+        "id": "07-05",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-52",
+        "lesson": 7,
+        "points": -1,
+        "tries": 5,
+        "is_unknown": 1
+    },
+    {
+        "id": "07-54",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-55",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-56",
+        "lesson": 7,
+        "points": -3,
+        "tries": 5,
+        "is_unknown": 1
+    },
+    {
+        "id": "07-57",
+        "lesson": 7,
+        "points": -3,
+        "tries": 7,
+        "is_unknown": 1
+    },
+    {
+        "id": "07-58",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-06",
+        "lesson": 7,
+        "points": 4,
+        "tries": 4,
+        "is_known": 1
+    },
+    {
+        "id": "07-60",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-64",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-65",
+        "lesson": 7,
+        "points": 7,
+        "tries": 7,
+        "is_well_known": 1
+    },
+    {
+        "id": "07-07",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "07-09",
+        "lesson": 7,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-01",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-10",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-11",
+        "lesson": 8,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "08-12",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-14",
+        "lesson": 8,
+        "points": -4,
+        "tries": 6,
+        "is_unknown": 1
+    },
+    {
+        "id": "08-16",
+        "lesson": 8,
+        "points": -4,
+        "tries": 6,
+        "is_unknown": 1
+    },
+    {
+        "id": "08-20",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-21",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-23",
+        "lesson": 8,
+        "points": -2,
+        "tries": 2,
+        "is_unknown": 1
+    },
+    {
+        "id": "08-25",
+        "lesson": 8,
+        "points": -4,
+        "tries": 6,
+        "is_unknown": 1
+    },
+    {
+        "id": "08-26",
+        "lesson": 8,
+        "points": -2,
+        "tries": 2,
+        "is_unknown": 1
+    },
+    {
+        "id": "08-28",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-03",
+        "lesson": 8,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "08-32",
+        "lesson": 8,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "08-34",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-36",
+        "lesson": 8,
+        "points": -2,
+        "tries": 2,
+        "is_unknown": 1
+    },
+    {
+        "id": "08-38",
+        "lesson": 8,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "08-04",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-40",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-42",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-43",
+        "lesson": 8,
+        "points": 0,
+        "tries": 2
+    },
+    {
+        "id": "08-45",
+        "lesson": 8,
+        "points": 2,
+        "tries": 2,
+        "is_known": 1
+    },
+    {
+        "id": "08-06",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    },
+    {
+        "id": "08-08",
+        "lesson": 8,
+        "points": 0,
+        "tries": 0
+    }
+]

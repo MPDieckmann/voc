@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de" style="--theme-color:{{ generate_value(theme_color) }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="full-screen" content="yes" />
+    <meta name="theme-color" content="{{ generate_value(theme_color) }}" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="{{ generate_title(site) }}" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <title>{{ generate_title(full) }}</title>
+    <link href="manifest.webmanifest" rel="manifest" />
+    {{ generate_icons() }}
+    {{ generate_styles() }}
+    {{ generate_scripts(head) }}
+  </head>
+  <body>
+    <div class="app" id="app">
+      <header id="header">
+        <label for="menu-switch" class="menu-button"></label>
+        <h1>{{ generate_title(page) }}</h1>
+      </header>
+      <main>{{ generate_value(main, plain) }}</main>
+      <input type="checkbox" id="menu-switch" class="collapsed" hidden="" />
+      <aside id="menu">
+        <label for="menu-switch" class="underlay-shadow"></label>
+        <header id="menu-header">
+          <label for="menu-switch" class="close-menu-button"></label>
+          <h2>{{ generate_title(page) }}</h2>
+        </header>
+        <ul class="menu">
+          <li class="menuitem"><a href="/train">Trainieren</a></li>
+          <li class="menuitem"><a href="/list">Liste</a></li>
+          <li class="menuitem"><a href="/add_data">Eintr&auml;ge hinzuf&auml;gen</a></li>
+          <li class="menuitem"><a href="/debug">Debug</a></li>
+        </ul>
+        {{ generate_menu(navigation) }}
+        <footer id="menu-footer" class="menu menu-grid">
+          <label class="menuitem" for="menu-switch" onclick="setTimeout(print, 410);">Seite drucken</label>
+          <label class="menuitem switch">{{ generate_offline_switch(true) }}<span class="switch-track"></span>Offline Mode</label>
+          <span class="menuitem">{{ generate_version(html) }}</span>
+          <span class="menuitem log-badges"><a href="{{ generate_url() }}/debug">{{ generate_log_badge(warn, true) }} {{ generate_log_badge(error, true) }}</a></span>
+          <span class="menuitem">{{ generate_copyright(html) }}</span>
+        </footer>
+      </aside>
+    </div>
+    {{ generate_scripts(body) }}
+    {{ generate_toasts() }}
+  </body>
+</html>

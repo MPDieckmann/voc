@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="full-screen" content="yes">
+    <meta name="theme-color" content="#551285">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Abrechnung by MPDieckmann">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Abrechnung by MPDieckmann</title>
+    <link rel="icon" sizes="48x48" href="client/png/index/any/48-48.png">
+    <link rel="icon" sizes="72x72" href="client/png/index/any/72-72.png">
+    <link rel="icon" sizes="96x96" href="client/png/index/any/96-96.png">
+    <link rel="icon" sizes="144x144" href="client/png/index/any/144-144.png">
+    <link rel="icon" sizes="192x192" href="client/png/index/any/192-192.png">
+    <link rel="icon" sizes="512x512" href="client/png/index/any/512-512.png">
+    <link rel="apple-touch-icon" sizes="48x48" href="client/png/index/any/48-48.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="client/png/index/any/72-72.png">
+    <link rel="apple-touch-icon" sizes="96x96" href="client/png/index/any/96-96.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="client/png/index/any/144-144.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="client/png/index/any/192-192.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="client/png/index/any/512-512.png">
+    <link rel="apple-touch-startup-image" href="client/png/index/monochrome/512-512.png">
+    <link id="mpc" rel="stylesheet" href="client/css/mpc.css" media="all,screen,handheld,print" type="text/css">
+    <link id="main" rel="stylesheet" href="client/css/main.css" media="all,screen,handheld,print" type="text/css">
+  </head>
+  <body>
+    <div class="app">
+      <header>
+        <h1>Abrechnung</h1>
+      </header>
+      <main>
+        <noscript>
+          <p>Diese App funktioniert nur mit JavaScript. Bitte aktiviere diese Standard-Skript-Sprache in Deinem Browser</p>
+        </noscript>
+        <script>
+          if ("serviceWorker" in navigator && "indexedDB" in self) {
+            document.write("<p id=\"installing\">Dein Browser scheint modern genug zu sein. <button onclick=\"install();\">Web-App installieren</button></p>");
+            function install() {
+              document.getElementById("installing").textContent = "Die Web-App wird installiert.";
+              navigator.serviceWorker.register("serviceworker.js", {
+                scope: "./"
+              }).then(registration => {
+                document.getElementById("installing").textContent = "Geschafft! Die Web-App steht nun zur Verfügung. Wir synchronisieren dann mal die ersten Daten - das kann ein paar Sekunden dauern ;-)";
+                document.getElementById("installing").style.color = "green";
+                let progress = document.createElement("div");
+                progress.textContent = "Lade Dateien";
+                progress.style.color = "#fff";
+                let hue = 275;
+                progress.style.textAlign = "center";
+                progress.style.padding = "25% 0";
+                progress.style.backgroundColor = "hsl(" + hue + ",76%,30%)";
+                document.body.appendChild(progress);
+                setInterval(a => {
+                  hue++;
+                  if (hue > 360) {
+                    hue -= 360;
+                  }
+                  progress.style.backgroundColor = "hsl(" + hue + ",76%,30%)";
+                }, 0);
+              }, error => {
+                document.getElementById("installing").textContent = "Leider ist ein Fehler aufgetreten! Bitte aktualisiere die Seite in ein paar Minuten und versuche es erneut!";
+                document.getElementById("installing").style.color = "red";
+              });
+            }
+            navigator.serviceWorker.ready.then(() => location.reload());
+          } else {
+            document.write("<p id=\"failed\">Dein Browser scheint zu alt zu sein. Diese App kann leider nicht installiert werden.");
+          }
+        </script>
+      </main>
+    </div>
+  </body>
+</html>

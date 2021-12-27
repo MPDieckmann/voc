@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "None",
+    "moduleResolution": "node",
+    "target": "ESNext",
+    "outFile": "../serviceworker.js",
+    "sourceMap": true,
+    "allowJs": false
+  },
+  "include": [
+    "./ts/routes/*.ts",
+    "ts/config.ts"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/*.js",
+    "**/*.d.ts"
+  ]
+}

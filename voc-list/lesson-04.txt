@@ -1,0 +1,43 @@
+4	1	4	1	aber	`awal	אבל	
+4	2	4	2	oder	`o	או	
+4	3	4	3	Universität	`uniwerßita	אוניברסיטה	f.Sg.
+4	4	4	3	Universitäten	`uniwerßitaot	אוניברסיטאות	f.Pl.
+4	5	4	5	im; in der	ba…	בַּ…	
+4	6	3	6	im Haus; zu Hause	babajit	בבית	
+4	7	4	7	Bier	bira	בירה	f.Sg.
+4	8	4	7	Biere	birot	בירות	f.Pl.
+4	9	4	9	Café; Kaffeehaus	bejt kafe	בית קפה	m.Sg.
+4	10	4	9	Cafés; Kaffeehäuser	batej kafe	בתי קפה	m.Pl.
+4	11	4	11	Gelobt sei Gott!; Gott sei Dank!	baruch haschem	ברוך השם!	
+4	12	4	12	der; die; das	ha…	הַ…	
+4	13	1	14	dieser; dieses	hase	הזה	m.Sg.
+4	14	1	14	diese	hasot	הזאת	f.Sg.
+4	15	1	14	diese	ha`ele	האלה	m.Pl.; f.Pl.
+4	16	4	16	hier ist	hine	הנה	
+4	17	4	17	Geschäft	chanut	חנות	f.Sg.
+4	18	4	17	Geschäfte	chanujot	חנויות	f.Pl.
+4	19	4	19	Mond	jareach	ירח	m.Sg.
+4	20	4	19	Monde	jerachim	ירחים	m.Pl.
+4	21	4	21	soso	kacha kacha	ככה ככה	
+4	22	4	22	auf Wiedersehen	lehitraot	להתראות	
+4	23	4	23	Zitrone	limon	לימון	m.Sg.
+4	24	4	23	Zitronen	limonim	לימונים	m.Pl.
+4	25	4	25	woher	me`ajin	מאין	
+4	26	4	26	aus dem; aus der	meha…	מֵהַ…	
+4	27	4	27	super!	ßababa	סבבה!	ugs.
+4	28	4	28	Zucker	ßukar	סוכר	m.Sg.
+4	29	4	29	Supermarkt	ßupermarket	סופרמרקט	m.Sg.
+4	30	4	30	Salat	ßalat	סלט	m.Sg.
+4	31	4	30	Salate	ßalatim	סלטים	m.Pl.
+4	32	4	32	super!	´al hakefak	על הכיפק!	ugs.
+4	33	4	33	schlecht!; [wörtlich:] auf dem Gesicht	´al hapanim	על הפנים!	ugs.
+4	34	4	34	Kiosk	kijoßk	קיוסק	m.Sg.
+4	35	4	34	Kioske	kijoßkim	קיוסקים	m.Pl.
+4	36	4	36	Kaffee	kafe	קפה	m.Sg.
+4	37	4	37	viele	raw	רב	m.Sg.
+4	38	4	37	viele	raba	רבה	f.Sg.
+4	39	4	37	viele	rabim	רבים	m.Pl.
+4	40	4	37	viele	rabot	רבות	f.Pl.
+4	41	4	41	von; gehört zu	schel	של	+ Akk.
+4	42	4	42	Tee	te	תה	m.Sg.
+4	43	4	43	vielen Dank	toda raba	תודה רבה	

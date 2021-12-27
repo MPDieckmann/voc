@@ -1,0 +1,48 @@
+1	1	1	1	wir	`anachnu	אנכנו	m.Pl.; f.Pl.
+1	2	1	1	ich 	`ani	אני	m.Sg.; f.Sg.
+1	3	1	1	du	`at	את	f.Sg.
+1	4	1	1	du	`ata	אתה	m.Sg.
+1	5	1	1	ihr	`atem	אתם	m.Pl.
+1	6	1	1	ihr	`aten	אתן	f.Pl.
+1	7	1	7	auch 	gam	גם	
+1	8	1	1	er	hu	הוא	m.Sg.
+1	9	1	1	sie	hi	היא	f.Sg.
+1	10	1	10	hallo	hei	היי	
+1	11	1	1	sie	hem	הם	m.Pl.
+1	12	1	1	sie	hen	הן	f.Pl.
+1	13	1	13	und	we…	ו…	
+1	14	1	14	das ist	sot	זאת	f.Sg.
+1	15	1	14	das ist	se	זה	m.Sg.
+1	16	1	15	Techniker	technaj	טכנאי	m.Sg.
+1	17	1	15	Technikerin	techna`it	טכנאית	f.Sg.
+1	18	1	15	Techniker	techna`im	טכנאים	m.Pl.
+1	19	1	15	Technikerinnen	techna`ijot	טכנאיות	f.Pl.
+1	20	1	20	ja	ken	כן	
+1	21	1	21	zu	le…	ל…	
+1	22	1	22	nein; nicht	lo	לא	
+1	23	1	23	aus	mi…	מ…	
+1	24	1	24	sehr	me`od	מאוד	
+1	25	1	25	Lehrer	more	מורה	m.Sg.
+1	26	1	25	Lehrerin	mora	מורה	f.Sg.
+1	27	1	25	Lehrer	morim	מורים	m.Pl.
+1	28	1	25	Lehrerinnen	morot	מורות	f.Pl.
+1	29	1	29	wer	mi	מי	
+1	30	1	30	angenehm	na`im	נעים	m.Sg.
+1	31	1	30	angenehm	ne`ima	נעימה	f.Sg.
+1	32	1	30	angenehm	ne`imim	נעימים	m.Pl.
+1	33	1	30	angenehm	ne`imot	נעימות	f.Pl.
+1	34	1	34	sehr angenehm	na`im me`od	נעים מאוד	
+1	35	1	35	Student	ßtudent	סטודנט	m.Sg.
+1	36	1	35	Studentin	ßtudentit	סטודנטית	f.Sg.
+1	37	1	35	Studenten	ßtudentim	סטודנטים	m.Pl.
+1	38	1	35	Studentinnen	ßtudentijot	סטודנטיות	f.Pl.
+1	39	1	39	Hebräisch	´iwrit	עברית	
+1	40	1	40	Büroangestellter	pakid	פקיד	m.Sg.
+1	41	1	40	Büroangestellte	pkida	פקידה	f.Sg.
+1	42	1	40	Büroangestellte	pkidim	פקידים	m.Pl.
+1	43	1	40	Büroangestellte	pkidot	פקידות	f.Pl.
+1	44	1	41	Frieden; Guten Tag	schalom	שלום	
+1	45	1	45	Schüler	talmid	תלמיד	m.Sg.
+1	46	1	45	Schülerin	talmida	תלמידה	f.Sg.
+1	47	1	45	Schüler	talmidim	תלמידים	m.Pl.
+1	48	1	45	Schülerinnen	talmidot	תלמידות	f.Pl.

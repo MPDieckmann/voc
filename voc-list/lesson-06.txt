@@ -1,0 +1,53 @@
+6	1	6	1	[eine Straße in Tel Aviv]: Alenbi	`alenbi	אלנבי	
+6	2	6	2	weinen	boche	בוכה	
+6	3	6	2	weinen	liwkot	לבכות	
+6	4	6	4	Schule	bejt ßefer	בית ספר	m.Sg.
+6	5	6	4	Schulen	batej ßefer	בתי ספר	m.Pl.
+6	6	6	6	[eine Straße in Tel Aviv]: Gordon	gordon	גורדון	
+6	7	6	7	liebenswert; niedlich	chamud	חמוד	m.Sg.
+6	8	6	7	liebenswert; niedlich	chamuda	חמודה	f.Sg.
+6	9	6	7	liebenswert; niedlich	chamudim	חמודים	m.Pl.
+6	10	6	7	liebenswert; niedlich	chamudot	חמודות	f.Pl.
+6	11	6	11	Fehler	ta´ut	טעות	f.Sg.
+6	12	6	11	Fehler	ta´ujot	טעויות	f.Pl.
+6	13	6	13	wissen	jode´a	יןדע	
+6	14	6	13	wissen	lada´at	לדעת	
+6	15	6	15	sitzen	joschew	יושב	
+6	16	6	15	sitzen	laschewet	לשבת	
+6	17	6	17	hier	kan	כאן	
+6	18	6	18	schreiben	kotew	כותב	
+6	19	6	18	schreiben	lichtow	לכתוב	
+6	20	6	20	so	kacha	ככה	
+6	21	6	21	weil	ki	כי	
+6	22	5	52	(Schul) Klasse	kita	כיתה	f.Sg.
+6	23	5	52	(Schul) Klassen	kitot	כיתות	f.Pl.
+6	24	6	24	warum?	lama?	למה?	
+6	25	6	25	E-Mail	mejl	מייל	
+6	26	6	26	Wasser	majim	מים	m.Pl.
+6	27	6	27	mehr, noch	´od	עוד	
+6	28	6	28	traurig	´azuw	עצוב	m.Sg.
+6	29	6	28	traurig	´azuwa	עצובה	f.Sg.
+6	30	6	28	traurig	´azuwim	עצובים	m.Pl.
+6	31	6	28	traurig	´azuwot	עצובות	f.Pl.
+6	32	6	32	[eine Straße in Tel Aviv]: Frischman	frischman	פרישמן	
+6	33	6	33	lesen	kore	קורא	
+6	34	6	33	lesen	likro	לקרוא	
+6	35	6	35	Möbel(stück)	rahit	רהיט	m.Sg.
+6	36	6	35	Möbel(stücke)	rahitim	רהיטים	m.Pl.
+6	37	6	37	Unterricht	schi´ur	שיעור	m.Sg.
+6	38	6	37	Unterrichte	schi´urim	שיעורים	m.Pl.
+6	39	6	39	Hausaufgaben	schiurej bajit	שיעורי בית	m.Pl.
+6	40	6	40	unter	tachat	תחת	
+6	41	6	41	Übung	targil	תרגיל	m.Sg.
+6	42	6	41	Übungen	targilim	תרגילים	m.Pl.
+6	43	5	38	null	`efeß	אפס	f.Sg.
+6	44	5	38	eins	`achat	אחת	f.Sg.
+6	45	5	38	zwei	schtayim	שתיים	f.Du.
+6	46	5	38	drei	schalosch	שלוש	f.Sg.
+6	47	5	38	vier	`arba	ארבע	f.Sg.
+6	48	5	38	fünf	chamesch	חמש	f.Sg.
+6	49	5	38	sechs	schesch	שש	f.Sg.
+6	50	5	38	sieben	schewa	שבע	f.Sg.
+6	51	5	38	acht	schmone	שמונה	f.Sg.
+6	52	5	38	neun	tescha	תשע	f.Sg.
+6	53	5	38	zehn	´eßer	עשר	f.Sg.

@@ -1,0 +1,114 @@
+.card {
+  margin: 1em;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.hebrew {
+  font-size: 2em;
+  text-align: center;
+  direction: rtl;
+  font-family: "Calibri", "Tahoma", "Segoe UI", "Lucida Sans Unicode", "SBL Hebrew", "Times New Roman", serif;
+}
+
+.front {
+  display: flex;
+  flex-flow: column;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  padding: 1em;
+  box-sizing: border-box;
+  text-align: center;
+  background: #fff;
+  z-index: 0;
+  transition: transform 0.5s, opacity 0.5s, visibility 0s 0.5s;
+  backface-visibility: hidden;
+  background: #fff;
+  box-shadow: 0 0.25em 0.75em 0 #0008;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+.back {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  width: 100%;
+  padding: 1em;
+  box-sizing: border-box;
+  text-align: center;
+  background: #fff;
+  position: relative;
+  z-index: 1;
+  transition: transform 0.5s, opacity 0.5s, visibility 0.5s;
+  backface-visibility: hidden;
+  background: #fff;
+  box-shadow: 0 0.25em 0.75em 0 #0008;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+.card .mpc-button-group {
+  flex: 0 0 auto;
+  margin: 0.5em 0 0 0;
+}
+
+.card .mpc-button {
+  border-radius: 0.5em;
+}
+
+.word,
+.hint {
+  flex: 1 1 100%;
+  margin: 0.25em;
+  transition: opacity 0.5s;
+}
+
+.hint_transcription {
+  font-style: italic;
+}
+
+.hint_tries {
+  font-style: italic;
+}
+
+.hint_lesson {
+  position: absolute;
+  font-weight: bold;
+  font-size: 10em;
+  opacity: 0.2;
+  left: 0.1em;
+  margin: 0;
+  top: 0.4em;
+  text-align: left;
+  z-index: -1;
+}
+
+#hints_used[value="0"]~.front .hint-1,
+#hints_used[value="0"]~.front .hint-2,
+#hints_used[value="0"]~.front .hint-3 {
+  visibility: hidden;
+  opacity: 0;
+}
+
+#hints_used[value="1"]~.front .hint-2,
+#hints_used[value="1"]~.front .hint-3 {
+  visibility: hidden;
+  opacity: 0;
+}
+
+#hints_used[value="2"]~.front .hint-3 {
+  visibility: hidden;
+  opacity: 0;
+}
+
+#hide_back:not(:checked)~.front {
+  transform: rotateY(-180deg);
+  transition: transform 0.5s, opacity 0.5s, visibility 0.5s;
+}
+
+#hide_back:checked~.back {
+  transform: rotateY(180deg);
+  transition: transform 0.5s, opacity 0.5s, visibility 0s 0.5s;
+}

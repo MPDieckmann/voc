@@ -1,0 +1,28 @@
+<form class="card" method="get">
+  <input type="hidden" name="id" value="{{ generate_value(id, html) }}">
+  <input type="hidden" id="hints_used" name="hints_used" value="0" />
+  <input type="checkbox" hidden="" id="hide_back" checked />
+  <label for="hide_back" class="front">
+    <div class="word hebrew">{{ generate_value(hebrew, html) }}</div>
+    <div class="hint hint-1 hint_transcription">{{ generate_value(hint_transcription, html) }}</div>
+    <div class="hint hint-2 hint_lesson">{{ generate_value(hint_lesson, html) }}</div>
+    <div class="hint hint-3 hint_hebrew">{{ generate_value(hint_hebrew, html) }}</div>
+    <div class="mpc-button-group">
+      <button class="mpc-button" onclick="hints_used.setAttribute('value', 1 + Number(hints_used.getAttribute('value')));" type="button">Zeige Hinweis</button>
+    </div>
+  </label>
+  <label for="hide_back" class="back">
+    <div class="word hebrew">{{ generate_value(hebrew, html) }}</div>
+    <div class="word german">{{ generate_value(german, html) }}</div>
+    <div class="hint hint_transcription">{{ generate_value(hint_transcription, html) }}</div>
+    <div class="hint hint_lesson">{{ generate_value(hint_lesson, html) }}</div>
+    <div class="hint hint_german">{{ generate_value(hint_german, html) }}</div>
+    <div class="hint hint_tries">Bereits {{ generate_value(hint_tries, html) }}-mal angesehen</div>
+    <div class="hint hint_points">Score: {{ generate_value(hint_points, html) }}</div>
+    <div class="mpc-button-group">
+      <button class="mpc-button mpc-button-type-submit" type="submit" name="known" value="1">Richtig</button>
+      <span class="mpc-button-group-space"></span>
+      <button class="mpc-button mpc-button-type-reset" type="submit" name="known" value="-1">Falsch</button>
+    </div>
+  </label>
+</form>

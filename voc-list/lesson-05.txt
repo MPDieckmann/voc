@@ -1,0 +1,89 @@
+5	1	5	1	welcher, was für einer	`ejse	איזנ	
+5	2	5	2	welcher, was für einer	`ejso	איזו	
+5	3	5	3	es gibt nicht; kein	`ejn	אין	
+5	4	5	4	frag bloß nicht!	`al tisch`al!	אל תשאל!	ugs.
+5	5	5	5	Mutter	`ima	אימא	f.Sg.
+5	6	5	5	Mütter	`imahot	אימהות	f.Pl.
+5	7	5	7	bei	`ezel	אצל	
+5	8	5	8	kommen	ba	בא	
+5	9	5	8	kommen	lawo	לבוא	
+5	10	5	10	Morgen	boker	בוקר	m.Sg.
+5	11	5	10	Morgen	bkarim	בקרים	m.Pl.
+5	12	5	12	gesund	bari	בריא	m.Sg.
+5	13	5	12	gesund	bri`a	בריאה	f.Sg.
+5	14	5	12	gesund	bri`im	בריאים	m.Pl.
+5	15	5	12	gesund	bri`ot	בריאות	f.Pl.
+5	16	5	16	groß	gadol	גדול	m.Sg.
+5	17	5	16	groß	gdola	גדולה	f.Sg.
+5	18	5	16	groß	gdolim	גדולים	m.Pl.
+5	19	5	16	groß	gdolot	גדולות	f.Pl.
+5	20	5	20	Friedensgrüße	dasch	ד"ש	
+5	21	5	20	Friedensgrüße	drischat schalom	דרישת שלום	
+5	22	5	22	wohnen	gar	גר	
+5	23	5	22	wohnen	lagur	לגור	
+5	24	5	24	Wohnung	dira	דירה	f.Sg.
+5	25	5	24	Wohnungen	dirot	דירות	f.Pl.
+5	26	5	26	Süden	darom	דרום	
+5	27	3	6	nach Hause	habajta	הביתה	
+5	28	4	37	viel	harbe	הרבה	
+5	29	5	29	Freund	chawer	חבר	m.Sg.
+5	30	5	29	Freundin	chawera	חברה	f.Sg.
+5	31	5	29	Freunde	chawerim	חברים	m.Pl.
+5	32	5	29	Freundinnen	chawerot	חברות	f.Pl.
+5	33	5	33	Zimmer	cheder	חדר	m.Sg.
+5	34	5	33	Zimmer	chadarim	חדרים	m.Pl.
+5	35	5	35	leben	chaj	חי	
+5	36	5	35	leben	lichjot	לחיות	
+5	37	5	37	Leben	chajim	חיים	m.Pl.
+5	38	5	38	fünf	chamesch	חמש	
+5	39	5	39	fliegen	taß	טס	
+5	40	5	39	fliegen	latuß	לטוס	
+5	41	5	41	frisch	tari	טרי	m.Sg.
+5	42	5	41	frisch	trija	טריה	f.Sg.
+5	43	5	41	frisch	trijim	טריים	m.Pl.
+5	44	5	41	frisch	trijot	טריות	f.Pl.
+5	45	5	45	schön! (Ausruf)	jofi!	יופי!	
+5	46	5	46	Meer	jam	ים	m.Sg.
+5	47	5	46	Meere	jamim	ימים	m.Pl.
+5	48	5	48	es gibt	jesch	יש	
+5	49	5	49	Stuhl	kiße	כיסא	m.Sg.
+5	50	5	49	Stühle	kiß`ot	כסאות	m.Pl.
+5	51	5	51	alles; jede(r)	kol	כל	
+5	52	5	52	(Schul) Klasse	kita	כיתה	f.Sg.
+5	53	5	52	(Schul) Klassen	kitot	כיתות	f.Pl.
+5	54	5	54	alle; ganz	kol ha…	כל ה...	
+5	55	5	55	wohin?	le`an?	לאן?	
+5	56	5	56	das Leben genießen	l´aßot chajim	לעשות חיים	
+5	57	5	57	Heft	machberet	מחברת	f.Sg.
+5	58	5	57	Hefte	machbarot	מחברות	f.Pl.
+5	59	5	59	Hotel	malon	מלון	m.Sg.
+5	60	5	60	Hotels	melonot	מלונות	m.Pl.
+5	61	5	61	König	melech	מלך	m.Sg.
+5	62	5	62	Zahl; Nummer	mißpar	מספר	m.Sg.
+5	63	5	62	Zahlen; Nummern	mißparim	מספרים	m.Pl.
+5	64	5	64	ausgezeichnet	mezujan	מצוין	m.Sg.
+5	65	5	64	ausgezeichnet	mezujenet	מצוינת	f.Sg.
+5	66	5	64	ausgezeichnet	mezujanim	מצוינים	m.Pl.
+5	67	5	64	ausgezeichnet	mezujanot	מצוינות	f.Pl.
+5	68	5	68	Familie	mischpacha	משפחה	f.Sg.
+5	69	5	68	Familien	mischpachot	משפחות	f.Pl.
+5	70	5	70	Welt	´olam	עולם	m.Sg.
+5	71	5	70	Welten	´olamot	עולמות	m.Pl.
+5	72	5	72	auf; über	´al	על	
+5	73	5	73	neben	´al jad	על יד	
+5	74	5	74	Obst	pri	פרי	m.Sg.
+5	75	5	74	Obst	perot	פירות	m.Pl.
+5	76	5	76	klein	katan	קטן	m.Sg.
+5	77	5	76	klein	ktana	קטנה	f.Sg.
+5	78	5	76	klein	ktanim	קטנים	m.Pl.
+5	79	5	76	klein	ktanot	קטנות	f.Pl.
+5	80	5	80	Straße	rechow	רחוב	m.Sg.
+5	81	5	80	Straßen	rechowot	רחובות	m.Pl.
+5	82	5	82	Granatapfel	rimon	רימון	m.Sg.
+5	83	5	82	Granatäpfel	rimonim	רימונים	m.Pl.
+5	84	5	84	Tisch	schulchan	שולחן	m.Sg.
+5	85	5	84	Tische	schulchanot	שולחנות	m.Pl.
+5	86	5	38	drei	schalosch	שלוש	
+5	87	5	87	Sonne	schemesch	שמש	f.Sg.
+5	88	5	88	Apfel	tapuach	תפוח	m.Sg.
+5	89	5	88	Äpfel	tapuchim	תפוחים	m.Pl.

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="full-screen" content="yes">
+    <meta name="theme-color" content="#551285">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Error {{ generate_value(code) }}: {{ generate_value(message) }}</title>
+  </head>
+  <body>
+    <div class="app">
+      <header>
+        <h1>Error {{ generate_value(code) }}: {{ generate_value(message) }}</h1>
+      </header>
+      <main>
+        <details style="color:red;">
+          <summary>Details: {{ generate_value(message) }}</summary>
+          <pre>{{ generate_value(stack) }}</pre>
+        </details>
+      </main>
+    </div>
+  </body>
+</html>

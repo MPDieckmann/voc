@@ -1,0 +1,195 @@
+html {
+  --label-background: #fff;
+  --active-border-color: #000;
+  --inactive-border-color: #888;
+  --theme-color: #551285;
+  --font-sans-serif: 1em/1.25 "Work Sans", sans-serif;
+  --text-color: #000;
+  --button-background: #fff;
+  --button-background-hover: #eee7f3;
+  --button-background_submit: #080;
+  --button-color_submit: #fff;
+  --button-background_submit-hover: #484;
+  --button-color_submit-hover: #fff;
+  --button-background_reset: #fff;
+  --button-color_reset: #f00;
+  --button-background_reset-hover: #fcc;
+  --button-color_reset-hover: #f00;
+
+}
+
+.mpc-grid {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.mpc-label {
+  background: #fff;
+  background: var(--label-background);
+  border: 2px solid #888;
+  border-color: var(--inactive-border-color);
+  border-radius: 0;
+  display: flex;
+  flex-flow: row nowrap;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.mpc-label:focus-within {
+  border-color: #000;
+  border-color: var(--active-border-color);
+}
+
+.mpc-grid .mpc-label {
+  flex: 1 1 350px;
+  margin: 0.5em;
+  min-width: 0;
+  height: auto;
+}
+
+.mpc-grid .mpc-label_date {
+  flex: 1 1 200px;
+}
+
+.mpc-label-title {
+  color: #080;
+  color: var(--theme-color);
+  display: block;
+  flex: 0 0 auto;
+  font: 1em/1.25 sans-serif;
+  font: var(--font-sans-serif);
+  font-weight: 500;
+  margin: 0;
+  padding: 0.5em 0 0.5em 0.5em;
+  user-select: none;
+  line-height: 1.5;
+}
+
+.mpc-label-input,
+.mpc-label-select {
+  background: none;
+  border: none;
+  color: #000;
+  color: var(--text-color);
+  display: block;
+  flex: 1 1 100%;
+  font: 1em/1.25 sans-serif;
+  font: var(--font-sans-serif);
+  margin: 0;
+  min-width: 0;
+  outline: none;
+  padding: 0.5em;
+}
+
+.mpc-label-text {
+  color: #000;
+  color: var(--text-color);
+  display: block;
+  flex: 1 1 auto;
+  font: 1em/1.25 sans-serif;
+  font: var(--font-sans-serif);
+  margin: 0 0 0 -0.25em;
+  padding: 0.5em 0.5em 0.5em 0;
+}
+
+.mpc-button-group {
+  display: flex;
+  flex-flow: row nowrap;
+  margin: 1em 0;
+  overflow: auto;
+  padding: 0;
+}
+
+.mpc-grid .mpc-button-group {
+  flex: 1 1 100%;
+  margin: 0.5em;
+}
+
+.mpc-button-group-space {
+  flex: 1 1 auto;
+  align-self: center;
+  text-align: center;
+}
+
+.mpc-button,
+.mpc-label-button {
+  background: #fff;
+  background: var(--button-background);
+  border: 2px solid #888;
+  border-color: var(--inactive-border-color);
+  border-radius: 1.5em;
+  color: #000;
+  color: var(--theme-color);
+  display: block;
+  cursor: pointer;
+  flex: 0 0 auto;
+  font: 1em/1.25 sans-serif;
+  font: var(--font-sans-serif);
+  font-weight: 600;
+  margin: 1em 0;
+  outline: none;
+  padding: 0.5em 1.25em;
+  user-select: none;
+}
+
+.mpc-grid .mpc-button {
+  flex: 1 1 auto;
+  margin: 0.5em;
+  min-width: 0;
+  height: auto;
+}
+
+.mpc-label-button {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  border-left: inherit;
+}
+
+.mpc-button:hover,
+.mpc-button:focus,
+.mpc-label:focus-within .mpc-label-button {
+  background: #cfc;
+  background: var(--button-background-hover);
+  border-color: #080;
+  border-color: var(--active-border-color);
+}
+
+.mpc-button-group .mpc-button {
+  margin: 0;
+}
+
+.mpc-button-group .mpc-button+.mpc-button,
+.mpc-button-group .mpc-button-group-space+.mpc-button {
+  margin: 0 0 0 1em;
+}
+
+.mpc-button-type-submit {
+  background: #080;
+  background: var(--button-background_submit);
+  color: #fff;
+  color: var(--button-color_submit);
+}
+
+.mpc-button-type-submit:hover,
+.mpc-button-type-submit:focus {
+  background: #484;
+  background: var(--button-background_submit-hover);
+  color: #fff;
+  color: var(--button-color_submit-hover);
+}
+
+.mpc-button-type-reset {
+  background: #f00;
+  background: var(--button-background_reset);
+  color: #fff;
+  color: var(--button-color_reset);
+}
+
+.mpc-button-type-reset:hover,
+.mpc-button-type-reset:focus {
+  background: #f44;
+  background: var(--button-background_reset-hover);
+  color: #fff;
+  color: var(--button-color_reset-hover);
+}

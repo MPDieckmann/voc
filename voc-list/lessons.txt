@@ -1,0 +1,425 @@
+1	1	1	1	wir	`anachnu	אנכנו	m.Pl.; f.Pl.
+1	2	1	1	ich 	`ani	אני	m.Sg.; f.Sg.
+1	3	1	1	du	`at	את	f.Sg.
+1	4	1	1	du	`ata	אתה	m.Sg.
+1	5	1	1	ihr	`atem	אתם	m.Pl.
+1	6	1	1	ihr	`aten	אתן	f.Pl.
+1	7	1	7	auch 	gam	גם	
+1	8	1	1	er	hu	הוא	m.Sg.
+1	9	1	1	sie	hi	היא	f.Sg.
+1	10	1	10	hallo	hei	היי	
+1	11	1	1	sie	hem	הם	m.Pl.
+1	12	1	1	sie	hen	הן	f.Pl.
+1	13	1	13	und	we…	ו…	
+1	14	1	14	das ist	sot	זאת	f.Sg.
+1	15	1	14	das ist	se	זה	m.Sg.
+1	16	1	15	Techniker	technaj	טכנאי	m.Sg.
+1	17	1	15	Technikerin	techna`it	טכנאית	f.Sg.
+1	18	1	15	Techniker	techna`im	טכנאים	m.Pl.
+1	19	1	15	Technikerinnen	techna`ijot	טכנאיות	f.Pl.
+1	20	1	20	ja	ken	כן	
+1	21	1	21	zu	le…	ל…	
+1	22	1	22	nein; nicht	lo	לא	
+1	23	1	23	aus	mi…	מ…	
+1	24	1	24	sehr	me`od	מאוד	
+1	25	1	25	Lehrer	more	מורה	m.Sg.
+1	26	1	25	Lehrerin	mora	מורה	f.Sg.
+1	27	1	25	Lehrer	morim	מורים	m.Pl.
+1	28	1	25	Lehrerinnen	morot	מורות	f.Pl.
+1	29	1	29	wer	mi	מי	
+1	30	1	30	angenehm	na`im	נעים	m.Sg.
+1	31	1	30	angenehm	ne`ima	נעימה	f.Sg.
+1	32	1	30	angenehm	ne`imim	נעימים	m.Pl.
+1	33	1	30	angenehm	ne`imot	נעימות	f.Pl.
+1	34	1	34	sehr angenehm	na`im me`od	נעים מאוד	
+1	35	1	35	Student	ßtudent	סטודנט	m.Sg.
+1	36	1	35	Studentin	ßtudentit	סטודנטית	f.Sg.
+1	37	1	35	Studenten	ßtudentim	סטודנטים	m.Pl.
+1	38	1	35	Studentinnen	ßtudentijot	סטודנטיות	f.Pl.
+1	39	1	39	Hebräisch	´iwrit	עברית	
+1	40	1	40	Büroangestellter	pakid	פקיד	m.Sg.
+1	41	1	40	Büroangestellte	pkida	פקידה	f.Sg.
+1	42	1	40	Büroangestellte	pkidim	פקידים	m.Pl.
+1	43	1	40	Büroangestellte	pkidot	פקידות	f.Pl.
+1	44	1	41	Frieden; Guten Tag	schalom	שלום	
+1	45	1	45	Schüler	talmid	תלמיד	m.Sg.
+1	46	1	45	Schülerin	talmida	תלמידה	f.Sg.
+1	47	1	45	Schüler	talmidim	תלמידים	m.Pl.
+1	48	1	45	Schülerinnen	talmidot	תלמידות	f.Pl.
+2	1	1	14	das sind	`ele	אלה	m.Pl.; f.Pl.
+2	2	2	2	neu	chadasch	חדש	m.Sg.
+2	3	2	2	neu	chadascha	חדשה	f.Sg.
+2	4	2	2	neu	chadaschim	חדשים	m.Pl.
+2	5	2	2	neu	chadaschot	חדשות	f.Pl.
+2	6	2	6	gut	tow	טוב	m.Sg.
+2	7	2	6	gut	towa	טובה	f.Sg.
+2	8	2	6	gut	towim	טובים	m.Pl.
+2	9	2	6	gut	towot	טובות	f.Pl.
+2	10	2	10	Kind; Junge	jeled	ילד	m.Sg.
+2	11	2	10	Kind; Mädchen	jalda	ילדה	f.Sg.
+2	12	2	10	Kinder; Jungen	jeladim	ילדים	m.Pl.
+2	13	2	10	Kinder; Mädchen	jeladot	ילדות	f.Pl.
+2	14	2	14	schön; hübsch	jafe	יפה	m.Sg.
+2	15	2	14	schön; hübsch	jafa	יפה	f.Sg.
+2	16	2	14	schön; hübsch	jafim	יפים	m.Pl.
+2	17	2	14	schön; hübsch	jafot	יפות	f.Pl.
+2	18	2	18	Brot	lechem	לחם	m.Sg.
+2	19	2	18	Brote	lechamim	לחמים	m.Pl.
+2	20	2	20	aus	mi…	מ…	
+2	21	2	21	was	ma	מה	
+2	22	2	22	von hier	mipo	מפה	
+2	23	2	23	richtig	nachon	נכון	
+2	24	2	24	Entschuldigung	ßlicha	סליחה	
+2	25	2	25	Buch	ßefer	ספר	m.Sg.
+2	26	2	25	Bücher	ßfarim	ספרים	m.Pl.
+2	27	2	27	Kuchen	´uga	עוגה	f.Sg.
+2	28	2	27	Kuchen	´ugot	עוגות	f.Pl.
+2	29	2	29	hier	po	פה	
+2	30	2	30	schlecht	ra´	רע	m.Sg.
+2	31	2	30	schlecht	ra´a	רעה	f.Sg.
+2	32	2	30	schlecht	ra´im	רעים	m.Pl.
+2	33	2	30	schlecht	ra´ot	רעות	f.Pl.
+3	1	3	1	dann	`as	אז	
+3	2	3	2	wo?	`eifo	איפה	
+3	3	3	3	in	be…	בְּ…	
+3	4	3	4	bitte	bewakascha	בבקשה	
+3	5	3	5	sicher; klar	betach	בטח	
+3	6	3	6	Haus	bajit	בית	m.Sg.
+3	7	3	6	Häuser	batim	בתים	m.Pl.
+3	8	3	8	heute	hajom	היום	m.Sg.
+3	9	3	8	Tag	jom	יום	m.Sg.
+3	10	3	8	Tage	jamim	יומים	m.Pl.
+3	11	3	11	nichts	klum	כלום	
+3	12	3	12	lernen	lomed	לומד	
+3	13	3	12	lernen	lilmod	ללמוד	
+3	14	3	14	Wie geht es?	ma nischma	מה נשמע	
+3	15	3	15	Saft	miz	מיץ	m.Sg.
+3	16	3	15	Säfte	mizim	מיצים	m.Pl.
+3	17	3	17	Büro	mißrad	משרד	m.Sg.
+3	18	3	17	Büros	mißradim	משרדים	m.Pl.
+3	19	3	19	Herr	mar	מר	
+3	20	2	25	Buch	ßefer	ספר	m.Sg.
+3	21	2	25	Bücher	ßfarim	ספרים	m.Pl.
+3	22	3	22	arbeiten	´owed	עובד	
+3	23	3	22	arbeiten	la´awod	לעבוד	
+3	24	3	24	machen	´oße	עושה	
+3	25	3	24	machen	la´aßot	לעשות	
+3	26	3	26	jetzt	´achschaw	עכשיו	
+3	27	3	27	mit	´im	עם	
+3	28	3	28	mögen; wollen	roze	רוצה	
+3	29	3	28	mögen; wollen	lirzot	לרצות	
+3	30	3	30	trinken	schote	שותה	
+3	31	3	30	trinken	lischtot	לשתות	
+3	32	3	32	dort	scham	שם	
+3	33	3	33	danke	toda	תודה	
+3	34	3	34	Orange	tapus	תפוז	m.Sg.
+3	35	3	34	Orangen	tapusim	תפוזים	m.Pl.
+4	1	4	1	aber	`awal	אבל	
+4	2	4	2	oder	`o	או	
+4	3	4	3	Universität	`uniwerßita	אוניברסיטה	f.Sg.
+4	4	4	3	Universitäten	`uniwerßitaot	אוניברסיטאות	f.Pl.
+4	5	4	5	im; in der	ba…	בַּ…	
+4	6	3	6	im Haus; zu Hause	babajit	בבית	
+4	7	4	7	Bier	bira	בירה	f.Sg.
+4	8	4	7	Biere	birot	בירות	f.Pl.
+4	9	4	9	Café; Kaffeehaus	bejt kafe	בית קפה	m.Sg.
+4	10	4	9	Cafés; Kaffeehäuser	batej kafe	בתי קפה	m.Pl.
+4	11	4	11	Gelobt sei Gott!; Gott sei Dank!	baruch haschem	ברוך השם!	
+4	12	4	12	der; die; das	ha…	הַ…	
+4	13	1	14	dieser; dieses	hase	הזה	m.Sg.
+4	14	1	14	diese	hasot	הזאת	f.Sg.
+4	15	1	14	diese	ha`ele	האלה	m.Pl.; f.Pl.
+4	16	4	16	hier ist	hine	הנה	
+4	17	4	17	Geschäft	chanut	חנות	f.Sg.
+4	18	4	17	Geschäfte	chanujot	חנויות	f.Pl.
+4	19	4	19	Mond	jareach	ירח	m.Sg.
+4	20	4	19	Monde	jerachim	ירחים	m.Pl.
+4	21	4	21	soso	kacha kacha	ככה ככה	
+4	22	4	22	auf Wiedersehen	lehitraot	להתראות	
+4	23	4	23	Zitrone	limon	לימון	m.Sg.
+4	24	4	23	Zitronen	limonim	לימונים	m.Pl.
+4	25	4	25	woher	me`ajin	מאין	
+4	26	4	26	aus dem; aus der	meha…	מֵהַ…	
+4	27	4	27	super!	ßababa	סבבה!	ugs.
+4	28	4	28	Zucker	ßukar	סוכר	m.Sg.
+4	29	4	29	Supermarkt	ßupermarket	סופרמרקט	m.Sg.
+4	30	4	30	Salat	ßalat	סלט	m.Sg.
+4	31	4	30	Salate	ßalatim	סלטים	m.Pl.
+4	32	4	32	super!	´al hakefak	על הכיפק!	ugs.
+4	33	4	33	schlecht!; [wörtlich:] auf dem Gesicht	´al hapanim	על הפנים!	ugs.
+4	34	4	34	Kiosk	kijoßk	קיוסק	m.Sg.
+4	35	4	34	Kioske	kijoßkim	קיוסקים	m.Pl.
+4	36	4	36	Kaffee	kafe	קפה	m.Sg.
+4	37	4	37	viele	raw	רב	m.Sg.
+4	38	4	37	viele	raba	רבה	f.Sg.
+4	39	4	37	viele	rabim	רבים	m.Pl.
+4	40	4	37	viele	rabot	רבות	f.Pl.
+4	41	4	41	von; gehört zu	schel	של	+ Akk.
+4	42	4	42	Tee	te	תה	m.Sg.
+4	43	4	43	vielen Dank	toda raba	תודה רבה	
+5	1	5	1	welcher, was für einer	`ejse	איזנ	
+5	2	5	2	welcher, was für einer	`ejso	איזו	
+5	3	5	3	es gibt nicht; kein	`ejn	אין	
+5	4	5	4	frag bloß nicht!	`al tisch`al!	אל תשאל!	ugs.
+5	5	5	5	Mutter	`ima	אימא	f.Sg.
+5	6	5	5	Mütter	`imahot	אימהות	f.Pl.
+5	7	5	7	bei	`ezel	אצל	
+5	8	5	8	kommen	ba	בא	
+5	9	5	8	kommen	lawo	לבוא	
+5	10	5	10	Morgen	boker	בוקר	m.Sg.
+5	11	5	10	Morgen	bkarim	בקרים	m.Pl.
+5	12	5	12	gesund	bari	בריא	m.Sg.
+5	13	5	12	gesund	bri`a	בריאה	f.Sg.
+5	14	5	12	gesund	bri`im	בריאים	m.Pl.
+5	15	5	12	gesund	bri`ot	בריאות	f.Pl.
+5	16	5	16	groß	gadol	גדול	m.Sg.
+5	17	5	16	groß	gdola	גדולה	f.Sg.
+5	18	5	16	groß	gdolim	גדולים	m.Pl.
+5	19	5	16	groß	gdolot	גדולות	f.Pl.
+5	20	5	20	Friedensgrüße	dasch	ד"ש	
+5	21	5	20	Friedensgrüße	drischat schalom	דרישת שלום	
+5	22	5	22	wohnen	gar	גר	
+5	23	5	22	wohnen	lagur	לגור	
+5	24	5	24	Wohnung	dira	דירה	f.Sg.
+5	25	5	24	Wohnungen	dirot	דירות	f.Pl.
+5	26	5	26	Süden	darom	דרום	
+5	27	3	6	nach Hause	habajta	הביתה	
+5	28	4	37	viel	harbe	הרבה	
+5	29	5	29	Freund	chawer	חבר	m.Sg.
+5	30	5	29	Freundin	chawera	חברה	f.Sg.
+5	31	5	29	Freunde	chawerim	חברים	m.Pl.
+5	32	5	29	Freundinnen	chawerot	חברות	f.Pl.
+5	33	5	33	Zimmer	cheder	חדר	m.Sg.
+5	34	5	33	Zimmer	chadarim	חדרים	m.Pl.
+5	35	5	35	leben	chaj	חי	
+5	36	5	35	leben	lichjot	לחיות	
+5	37	5	37	Leben	chajim	חיים	m.Pl.
+5	38	5	38	fünf	chamesch	חמש	
+5	39	5	39	fliegen	taß	טס	
+5	40	5	39	fliegen	latuß	לטוס	
+5	41	5	41	frisch	tari	טרי	m.Sg.
+5	42	5	41	frisch	trija	טריה	f.Sg.
+5	43	5	41	frisch	trijim	טריים	m.Pl.
+5	44	5	41	frisch	trijot	טריות	f.Pl.
+5	45	5	45	schön! (Ausruf)	jofi!	יופי!	
+5	46	5	46	Meer	jam	ים	m.Sg.
+5	47	5	46	Meere	jamim	ימים	m.Pl.
+5	48	5	48	es gibt	jesch	יש	
+5	49	5	49	Stuhl	kiße	כיסא	m.Sg.
+5	50	5	49	Stühle	kiß`ot	כסאות	m.Pl.
+5	51	5	51	alles; jede(r)	kol	כל	
+5	52	5	52	(Schul) Klasse	kita	כיתה	f.Sg.
+5	53	5	52	(Schul) Klassen	kitot	כיתות	f.Pl.
+5	54	5	54	alle; ganz	kol ha…	כל ה...	
+5	55	5	55	wohin?	le`an?	לאן?	
+5	56	5	56	das Leben genießen	l´aßot chajim	לעשות חיים	
+5	57	5	57	Heft	machberet	מחברת	f.Sg.
+5	58	5	57	Hefte	machbarot	מחברות	f.Pl.
+5	59	5	59	Hotel	malon	מלון	m.Sg.
+5	60	5	60	Hotels	melonot	מלונות	m.Pl.
+5	61	5	61	König	melech	מלך	m.Sg.
+5	62	5	62	Zahl; Nummer	mißpar	מספר	m.Sg.
+5	63	5	62	Zahlen; Nummern	mißparim	מספרים	m.Pl.
+5	64	5	64	ausgezeichnet	mezujan	מצוין	m.Sg.
+5	65	5	64	ausgezeichnet	mezujenet	מצוינת	f.Sg.
+5	66	5	64	ausgezeichnet	mezujanim	מצוינים	m.Pl.
+5	67	5	64	ausgezeichnet	mezujanot	מצוינות	f.Pl.
+5	68	5	68	Familie	mischpacha	משפחה	f.Sg.
+5	69	5	68	Familien	mischpachot	משפחות	f.Pl.
+5	70	5	70	Welt	´olam	עולם	m.Sg.
+5	71	5	70	Welten	´olamot	עולמות	m.Pl.
+5	72	5	72	auf; über	´al	על	
+5	73	5	73	neben	´al jad	על יד	
+5	74	5	74	Obst	pri	פרי	m.Sg.
+5	75	5	74	Obst	perot	פירות	m.Pl.
+5	76	5	76	klein	katan	קטן	m.Sg.
+5	77	5	76	klein	ktana	קטנה	f.Sg.
+5	78	5	76	klein	ktanim	קטנים	m.Pl.
+5	79	5	76	klein	ktanot	קטנות	f.Pl.
+5	80	5	80	Straße	rechow	רחוב	m.Sg.
+5	81	5	80	Straßen	rechowot	רחובות	m.Pl.
+5	82	5	82	Granatapfel	rimon	רימון	m.Sg.
+5	83	5	82	Granatäpfel	rimonim	רימונים	m.Pl.
+5	84	5	84	Tisch	schulchan	שולחן	m.Sg.
+5	85	5	84	Tische	schulchanot	שולחנות	m.Pl.
+5	86	5	38	drei	schalosch	שלוש	
+5	87	5	87	Sonne	schemesch	שמש	f.Sg.
+5	88	5	88	Apfel	tapuach	תפוח	m.Sg.
+5	89	5	88	Äpfel	tapuchim	תפוחים	m.Pl.
+6	1	6	1	[eine Straße in Tel Aviv]: Alenbi	`alenbi	אלנבי	
+6	2	6	2	weinen	boche	בוכה	
+6	3	6	2	weinen	liwkot	לבכות	
+6	4	6	4	Schule	bejt ßefer	בית ספר	m.Sg.
+6	5	6	4	Schulen	batej ßefer	בתי ספר	m.Pl.
+6	6	6	6	[eine Straße in Tel Aviv]: Gordon	gordon	גורדון	
+6	7	6	7	liebenswert; niedlich	chamud	חמוד	m.Sg.
+6	8	6	7	liebenswert; niedlich	chamuda	חמודה	f.Sg.
+6	9	6	7	liebenswert; niedlich	chamudim	חמודים	m.Pl.
+6	10	6	7	liebenswert; niedlich	chamudot	חמודות	f.Pl.
+6	11	6	11	Fehler	ta´ut	טעות	f.Sg.
+6	12	6	11	Fehler	ta´ujot	טעויות	f.Pl.
+6	13	6	13	wissen	jode´a	יןדע	
+6	14	6	13	wissen	lada´at	לדעת	
+6	15	6	15	sitzen	joschew	יושב	
+6	16	6	15	sitzen	laschewet	לשבת	
+6	17	6	17	hier	kan	כאן	
+6	18	6	18	schreiben	kotew	כותב	
+6	19	6	18	schreiben	lichtow	לכתוב	
+6	20	6	20	so	kacha	ככה	
+6	21	6	21	weil	ki	כי	
+6	22	5	52	(Schul) Klasse	kita	כיתה	f.Sg.
+6	23	5	52	(Schul) Klassen	kitot	כיתות	f.Pl.
+6	24	6	24	warum?	lama?	למה?	
+6	25	6	25	E-Mail	mejl	מייל	
+6	26	6	26	Wasser	majim	מים	m.Pl.
+6	27	6	27	mehr, noch	´od	עוד	
+6	28	6	28	traurig	´azuw	עצוב	m.Sg.
+6	29	6	28	traurig	´azuwa	עצובה	f.Sg.
+6	30	6	28	traurig	´azuwim	עצובים	m.Pl.
+6	31	6	28	traurig	´azuwot	עצובות	f.Pl.
+6	32	6	32	[eine Straße in Tel Aviv]: Frischman	frischman	פרישמן	
+6	33	6	33	lesen	kore	קורא	
+6	34	6	33	lesen	likro	לקרוא	
+6	35	6	35	Möbel(stück)	rahit	רהיט	m.Sg.
+6	36	6	35	Möbel(stücke)	rahitim	רהיטים	m.Pl.
+6	37	6	37	Unterricht	schi´ur	שיעור	m.Sg.
+6	38	6	37	Unterrichte	schi´urim	שיעורים	m.Pl.
+6	39	6	39	Hausaufgaben	schiurej bajit	שיעורי בית	m.Pl.
+6	40	6	40	unter	tachat	תחת	
+6	41	6	41	Übung	targil	תרגיל	m.Sg.
+6	42	6	41	Übungen	targilim	תרגילים	m.Pl.
+6	43	5	38	null	`efeß	אפס	f.Sg.
+6	44	5	38	eins	`achat	אחת	f.Sg.
+6	45	5	38	zwei	schtayim	שתיים	f.Du.
+6	46	5	38	drei	schalosch	שלוש	f.Sg.
+6	47	5	38	vier	`arba	ארבע	f.Sg.
+6	48	5	38	fünf	chamesch	חמש	f.Sg.
+6	49	5	38	sechs	schesch	שש	f.Sg.
+6	50	5	38	sieben	schewa	שבע	f.Sg.
+6	51	5	38	acht	schmone	שמונה	f.Sg.
+6	52	5	38	neun	tescha	תשע	f.Sg.
+6	53	5	38	zehn	´eßer	עשר	f.Sg.
+7	1	7	1	Vater; Papa	`aba	אבא	m.Sg.
+7	2	7	1	Väter; Papas	`awot	אבות	m.Pl.
+7	3	7	3	vielleicht	`ulaj	אולי	
+7	4	7	4	Mann	`isch	איש	m.Sg.
+7	5	7	5	Leute	`anaschim	אנשים	m.Pl.
+7	6	7	6	den; die; das	`et	את	Akk.
+7	7	7	7	lieben	`ohew	אוהב	
+7	8	7	7	lieben	le`ehow	לאהוב	
+7	9	7	9	dann tschüss	`as jalla baj	אז יאללה ביי	ugs.
+7	10	7	10	zusammen	bejachad	ביחד	
+7	11	7	11	in Ordnung	beßeder	בסדר	
+7	12	7	12	Berg	har	הר	m.Sg.
+7	13	7	12	Berge	harim	הרים	m.Pl.
+7	14	4	37	viel	harbe	הרבה	
+7	15	7	52	heute Abend	ha´erew	הערב	
+7	16	7	16	die Klagemauer	hakotel hama´arawi	הכותל המערבי	
+7	17	7	17	gehen	holech	הולך	
+7	18	7	17	gehen	lalechet	ללכת	
+7	19	7	19	schade	chawal	חבל	
+7	20	7	20	krank	chole	חולה	m.Sg.
+7	21	7	20	krank	chola	חולה	f.Sg.
+7	22	7	20	krank	cholim	חולים	m.Pl.
+7	23	7	20	krank	cholot	חולות	f.Pl.
+7	24	7	24	zurückkommen	choser	חוזר	
+7	25	7	24	zurückkommen	lachsor	לחזור	
+7	26	7	26	Ferien; Urlaub	chofesch	חופש	m.Sg.
+7	27	7	26	Ferien; Urlaube	chofeschim	חופשים	m.Pl.
+7	28	7	28	Reise; Ausflug	tijul	טיול	m.Sg.
+7	29	7	28	Reisen; Ausflüge	tijulim	טיולים	m.Pl.
+7	30	7	30	können	jachol	יכול	
+7	31	7	31	wie viel	kama	כמה	
+7	32	7	32	zu dem; zu der	la…	לַ...	
+7	33	7	33	Wort	mila	מילה	m.Sg.
+7	34	7	33	Wörter	milim	מילים	m.Pl.
+7	35	7	35	wann	mataj	מתי	
+7	36	7	36	besuchen	mewaker	מבקר	
+7	37	7	36	besuchen	lewaker	לבקר	
+7	38	7	38	sprechen	medaber	מדבר	
+7	39	7	38	sprechen	ledaber	לדבר	
+7	40	7	40	reisen; Ausflug machen; spazieren gehen	metajel	מטייל	
+7	41	7	40	reisen; Ausflug machen; spazieren gehen	letajel	לטייל	
+7	42	7	42	Feier; Party	meßiba	מסיבה	f.Sg.
+7	43	7	42	Feiern; Partys	meßibot	מסיבות	f.Pl.
+7	44	7	44	Ort; Platz	makom	מקום	m.Sg.
+7	45	7	44	Orte; Plätze	mekomot	מקומות	m.Pl.
+7	46	7	46	Film	ßeret	סרת	m.Sg.
+7	47	7	46	Filme	ßratim	סרתים	m.Pl.
+7	48	7	48	müde	´ajef	עייף	m.Sg.
+7	49	7	48	müde	´ajefa	עייפה	f.Sg.
+7	50	7	48	müde	´ajefim	עייפים	m.Pl.
+7	51	7	48	müde	´ajefot	עייפות	f.Pl.
+7	52	7	52	Abend	´erew	ערב	m.Sg.
+7	53	7	52	Abende	´arawim	ערבים	m.Pl.
+7	54	7	54	Norden	zafon	צפון	m.Sg.
+7	55	7	55	brauchen; müssen	zarich	צריך	
+7	56	7	56	ein bisschen; wenig	kzat	קצת	
+7	57	7	57	Kino	kolno´a	קולנוע	m.Sg.
+7	58	7	58	Idee	ra´ajon	רעיון	m.Sg.
+7	59	7	58	Ideen	ra´ajonot	רעיונות	m.Pl.
+7	60	7	60	Arzt	rofe	רופא	m.Sg.
+7	61	7	60	Ärztin	rof`a	רופאה	f.Sg.
+7	62	7	60	Ärzte	rof`im	רופאים	m.Pl.
+7	63	7	60	Ärztinnen	rof`ot	רופאות	f.Pl.
+7	64	7	64	nur	rak	רק	
+7	65	7	65	Samstag	schabat	שבת	f.Sg.
+7	66	7	65	Samstage	schabatot	שבתות	f.Pl.
+7	67	5	38	zwei	schtej	שתי	f.Du.
+8	1	8	1	sagen	`omer	אומר	
+8	2	8	1	sagen	lomar	לומר	
+8	3	8	3	ich habe Lust	ba li	בא לי	ugs.
+8	4	8	4	Briefmarke	bul	בול	m.Sg.
+8	5	8	4	Briefmarken	bulim	בולים	m.Pl.
+8	6	8	6	Postkarte	gluja	גלויה	f.Sg.
+8	7	8	6	Postkarten	glujot	גלויות	f.Pl.
+8	8	8	8	Eiskrem	glida	גלידה	f.Sg.
+8	9	8	8	Eiskrem	glidot	גלידות	f.Pl.
+8	10	8	10	Post	do`ar	דואר	m.Sg.
+8	11	8	11	Luftpost	do`ar `awir	דואר אויר	
+8	12	8	12	Paket	chawila	חבילה	f.Sg.
+8	13	8	12	Pakete	chawliot	חבילות	f.Pl.
+8	14	8	14	denken	choschew	חושב	
+8	15	8	14	denken	lachaschow	לחשוב	
+8	16	8	16	teuer	jakar	יקר	m.Sg.
+8	17	8	16	teuer	jekara	יקרה	f.Sg.
+8	18	8	16	teuer	jekarim	יקרים	m.Pl.
+8	19	8	16	teuer	jekarot	יקרות	f.Pl.
+8	20	8	20	schon; bereits	kwar	כבר	
+8	21	8	21	Geld	keßef	כסף	m.Sg.
+8	22	8	21	Geld	kßafim	כספים	m.Pl.
+8	23	8	23	Brief	michtaw	מכתב	m.Sg.
+8	24	8	23	Briefe	michatawim	מכתבים	m.Pl.
+8	25	8	25	etwas	maschehu	משהו	m.Sg.
+8	26	8	26	Geschenk	matana	מתנה	f.Sg.
+8	27	8	26	Geschenke	matanot	מתנות	f.Pl.
+8	28	8	28	wunderbar; herrlich	nehedar	נהדר	m.Sg.
+8	29	8	28	wunderbar; herrlich	nehederet	נהדרת	f.Sg.
+8	30	8	28	wunderbar; herrlich	nehedarim	נהדרים	m.Pl.
+8	31	8	28	wunderbar; herrlich	nehedarot	נהדרות	f.Pl.
+8	32	8	32	geben	noten	נותן	
+8	33	8	32	geben	latet	לתת	
+8	34	8	34	Zigarette	ßigarja	סיגריה	f.Sg.
+8	35	8	34	Zigaretten	ßigarjot	סיגריות	f.Pl.
+8	36	8	36	aufsteigen; einwandern; kosten; hinaufgehen	´ole	עולה	
+8	37	8	36	aufsteigen; einwandern; kosten; hinaufgehen	la´alot	לעלות	
+8	38	8	38	Zeitung	´iton	עיתון	m.Sg.
+8	39	8	38	Zeitungen	´itonim	עיתונים	m.Pl.
+8	40	8	40	kaufen	kone	קונה	
+8	41	8	40	kaufen	liknot	לקנות	
+8	42	8	42	welcher; der; die; das; dass	sche…	ש...	
+8	43	8	43	schicken	scholeach	שולח	
+8	44	8	43	schicken	lischloach	לשלוח	
+8	45	8	45	[Währungseinheit]: Schekel	schekel	שקל	m. Sg.
+8	46	8	45	[Währungseinheit]: Schekel	schkalim	שקלים	m.Pl.
+8	47	8	45	[Währung in Israel/Abkürzung]: neue Schekel	schach	ש''ח	
+8	48	5	38	eins	`echat	אחד	m.Sg.
+8	49	5	38	zwei	schnayim	שניים	m.Du.
+8	50	5	38	drei	schloscha	שלושה	m.Sg.
+8	51	5	38	vier	`arba´a	ארבעה	m.Sg.
+8	52	5	38	fünf	chamischa	חמישה	m.Sg.
+8	53	5	38	sechs	schischa	שישה	m.Sg.
+8	54	5	38	sieben	schiw´a	שבעה	m.Sg.
+8	55	5	38	acht	schmona	שמונה	m.Sg.
+8	56	5	38	neun	tisch´a	תשעה	m.Sg.
+8	57	5	38	zehn	´aßara	עשרה	m.Sg.

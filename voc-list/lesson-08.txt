@@ -1,0 +1,57 @@
+8	1	8	1	sagen	`omer	אומר	
+8	2	8	1	sagen	lomar	לומר	
+8	3	8	3	ich habe Lust	ba li	בא לי	ugs.
+8	4	8	4	Briefmarke	bul	בול	m.Sg.
+8	5	8	4	Briefmarken	bulim	בולים	m.Pl.
+8	6	8	6	Postkarte	gluja	גלויה	f.Sg.
+8	7	8	6	Postkarten	glujot	גלויות	f.Pl.
+8	8	8	8	Eiskrem	glida	גלידה	f.Sg.
+8	9	8	8	Eiskrem	glidot	גלידות	f.Pl.
+8	10	8	10	Post	do`ar	דואר	m.Sg.
+8	11	8	11	Luftpost	do`ar `awir	דואר אויר	
+8	12	8	12	Paket	chawila	חבילה	f.Sg.
+8	13	8	12	Pakete	chawliot	חבילות	f.Pl.
+8	14	8	14	denken	choschew	חושב	
+8	15	8	14	denken	lachaschow	לחשוב	
+8	16	8	16	teuer	jakar	יקר	m.Sg.
+8	17	8	16	teuer	jekara	יקרה	f.Sg.
+8	18	8	16	teuer	jekarim	יקרים	m.Pl.
+8	19	8	16	teuer	jekarot	יקרות	f.Pl.
+8	20	8	20	schon; bereits	kwar	כבר	
+8	21	8	21	Geld	keßef	כסף	m.Sg.
+8	22	8	21	Geld	kßafim	כספים	m.Pl.
+8	23	8	23	Brief	michtaw	מכתב	m.Sg.
+8	24	8	23	Briefe	michatawim	מכתבים	m.Pl.
+8	25	8	25	etwas	maschehu	משהו	m.Sg.
+8	26	8	26	Geschenk	matana	מתנה	f.Sg.
+8	27	8	26	Geschenke	matanot	מתנות	f.Pl.
+8	28	8	28	wunderbar; herrlich	nehedar	נהדר	m.Sg.
+8	29	8	28	wunderbar; herrlich	nehederet	נהדרת	f.Sg.
+8	30	8	28	wunderbar; herrlich	nehedarim	נהדרים	m.Pl.
+8	31	8	28	wunderbar; herrlich	nehedarot	נהדרות	f.Pl.
+8	32	8	32	geben	noten	נותן	
+8	33	8	32	geben	latet	לתת	
+8	34	8	34	Zigarette	ßigarja	סיגריה	f.Sg.
+8	35	8	34	Zigaretten	ßigarjot	סיגריות	f.Pl.
+8	36	8	36	aufsteigen; einwandern; kosten; hinaufgehen	´ole	עולה	
+8	37	8	36	aufsteigen; einwandern; kosten; hinaufgehen	la´alot	לעלות	
+8	38	8	38	Zeitung	´iton	עיתון	m.Sg.
+8	39	8	38	Zeitungen	´itonim	עיתונים	m.Pl.
+8	40	8	40	kaufen	kone	קונה	
+8	41	8	40	kaufen	liknot	לקנות	
+8	42	8	42	welcher; der; die; das; dass	sche…	ש...	
+8	43	8	43	schicken	scholeach	שולח	
+8	44	8	43	schicken	lischloach	לשלוח	
+8	45	8	45	[Währungseinheit]: Schekel	schekel	שקל	m. Sg.
+8	46	8	45	[Währungseinheit]: Schekel	schkalim	שקלים	m.Pl.
+8	47	8	45	[Währung in Israel/Abkürzung]: neue Schekel	schach	ש''ח	
+8	48	5	38	eins	`echat	אחד	m.Sg.
+8	49	5	38	zwei	schnayim	שניים	m.Du.
+8	50	5	38	drei	schloscha	שלושה	m.Sg.
+8	51	5	38	vier	`arba´a	ארבעה	m.Sg.
+8	52	5	38	fünf	chamischa	חמישה	m.Sg.
+8	53	5	38	sechs	schischa	שישה	m.Sg.
+8	54	5	38	sieben	schiw´a	שבעה	m.Sg.
+8	55	5	38	acht	schmona	שמונה	m.Sg.
+8	56	5	38	neun	tisch´a	תשעה	m.Sg.
+8	57	5	38	zehn	´aßara	עשרה	m.Sg.
