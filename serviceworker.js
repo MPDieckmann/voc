@@ -2983,10 +2983,10 @@ server.registerRoute(Server.APP_SCOPE + "/", {
         return await this.build({
             page_title: "Startseite",
             main: `<ul>
-  <li><a href="/train">Trainieren</a></li>
-  <li><a href="/list">Liste</a></li>
-  <li><a href="/add_data">Eintr&auml;ge hinzuf&auml;gen</a></li>
-  <li><a href="/debug">Debug</a></li>
+  <li><a href="${this.generate_url(null)}/train">Trainieren</a></li>
+  <li><a href="${this.generate_url(null)}/list">Liste</a></li>
+  <li><a href="${this.generate_url(null)}/add_data">Eintr&auml;ge hinzuf&auml;gen</a></li>
+  <li><a href="${this.generate_url(null)}/debug">Debug</a></li>
 </ul>`,
         }, await this.files["layout.html"].text());
     }
