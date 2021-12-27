@@ -31,10 +31,10 @@
           <h2>{{ generate_title(page) }}</h2>
         </header>
         <ul class="menu">
-          <li class="menuitem"><a href="/train">Trainieren</a></li>
-          <li class="menuitem"><a href="/list">Liste</a></li>
-          <li class="menuitem"><a href="/add_data">Eintr&auml;ge hinzuf&auml;gen</a></li>
-          <li class="menuitem"><a href="/debug">Debug</a></li>
+          <li class="menuitem"><a href="{{ generate_url() }}/train">Trainieren</a></li>
+          <li class="menuitem"><a href="{{ generate_url() }}/list">Liste</a></li>
+          <li class="menuitem"><a href="{{ generate_url() }}/add_data">Eintr&auml;ge hinzuf&auml;gen</a></li>
+          <li class="menuitem"><a href="{{ generate_url() }}/debug">Debug</a></li>
         </ul>
         {{ generate_menu(navigation) }}
         <footer id="menu-footer" class="menu menu-grid">
