@@ -2,5 +2,15 @@
 /api.php
 /install.sql
 /test.php
+/voc-list
+/voc-list/lesson-01.txt
+/voc-list/lesson-02.txt
+/voc-list/lesson-03.txt
+/voc-list/lesson-04.txt
+/voc-list/lesson-05.txt
+/voc-list/lesson-06.txt
+/voc-list/lesson-07.txt
+/voc-list/lesson-08.txt
+/voc-list/lessons.txt
 /mpdieckmann-traindata-entries.json
 /mpdieckmann-traindata-sets.json
