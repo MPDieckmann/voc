@@ -38,9 +38,12 @@ class Scope<F extends string> extends EventTarget {
     [s in F]: CacheResponse;
   }>{};
   readonly icon: string;
+  readonly request: Request;
 
-  constructor(readonly request: Request, route: Route<F>) {
+  constructor(request: Request, route: Route<F>) {
     super();
+    request = request.clone();
+    this.request = request;
     this.url = new URL(request.url);
     this.icon = route.icon || server.getSetting("server-icon") || null;
 
