@@ -68,70 +68,140 @@ async function update_lessons(): Promise<number> {
 }
 
 async function add_lesson(lesson: string | number): Promise<boolean> {
-  let lesson_text = await server.apiFetch("get_lesson", [lesson]);
-  if (lesson_text === false) {
+  let lesson_text = await server.apiFetch(
+    "get_lesson",
+    [
+      lesson
+    ]
+  );
+  
+  if (
+    lesson_text === false
+  ) {
     return false;
   }
+
   let sets: Set<string> = new Set();
-  if ((await idb.count("vocabulary_sets")) > 0) {
-    (await idb.get("vocabulary_sets")).forEach(set => {
-      sets.add(set.id);
-    });
+  let lessons: Set<number> = new Set();
+
+  if (
+    await idb.count("vocabulary_sets") > 0
+  ) {
+    (
+      await idb.get("vocabulary_sets")
+    ).forEach(
+      set => sets.add(set.id)
+    );
   }
+
   await Promise.all(
-    lesson_text.replace(/\r/g, "").split("\n").map(
+    lesson_text.replace(
+      /\r/g,
+      ""
+    ).split(
+      "\n"
+    ).map(
       async line => {
         let entry = <LessonFileLine>line.split("\t");
-        if (entry.length < 8) {
+        if (
+          entry.length < 8
+        ) {
           return false;
         }
+
         let id = (entry[0].length < 2 ? "0" : "") + entry[0] + "-" + (entry[1].length < 2 ? "0" : "") + entry[1];
         let set_id = (entry[2].length < 2 ? "0" : "") + entry[2] + "-" + (entry[3].length < 2 ? "0" : "") + entry[3];
-        if (!sets.has(set_id)) {
-          sets.add(set_id);
-          await idb.add("vocabulary_sets", {
-            id: set_id,
-            lesson: Number(entry[2]),
-            points: 0,
-            tries: 0
-          });
-        }
-        await idb.add("vocabulary", <Entry>{
-          lesson: Number(entry[0]),
-          id,
-          set_id,
 
-          german: (entry[4] || "").normalize("NFD").split("; "),
-          transcription: (entry[5] || "").normalize("NFD"),
-          hebrew: (entry[6] || "").normalize("NFD"),
-          hints_german: (entry[7] || "").normalize("NFD").split("; "),
-          hints_hebrew: (entry[7] || "").normalize("NFD").split("; ").map(
-            hint => {
-              switch (hint) {
-                case "m.Sg.":
-                  return "ז'";
-                case "f.Sg.":
-                  return "נ'";
-                case "m.Pl.":
-                  return "ז\"ר";
-                case "f.Pl.":
-                  return "נ\"ר";
-                case "ugs.":
-                  return "\u05e1'";
-                default:
-                  return hint;
-              }
+        if (
+          !sets.has(set_id)
+        ) {
+          sets.add(set_id);
+          await idb.add(
+            "vocabulary_sets",
+            { id: set_id, lesson: Number(entry[2]), points: 0, tries: 0 }
+          );
+        }
+
+        lessons.add(Number(entry[0]));
+
+        let voc = (await idb.get(
+          "vocabulary",
+          { id }
+        ))[0] || <Entry>{ lesson: Number(entry[0]), id, set_id, tries: 0 };
+
+        if (
+          voc.set_id != set_id &&
+          await idb.count(
+            "vocabulary",
+            { set_id }
+          ) == 0
+        ) {
+          await idb.delete(
+            "vocabulary_sets",
+            { id: set_id }
+          );
+
+          sets.delete(set_id);
+        }
+
+        voc.set_id = set_id;
+        voc.german = (
+          entry[4] ||
+          ""
+        ).normalize("NFD").split("; ");
+        voc.transcription = (
+          entry[5] ||
+          ""
+        ).normalize("NFD");
+        voc.hebrew = (
+          entry[6] ||
+          ""
+        ).normalize("NFD");
+        voc.hints_german = (
+          entry[7] ||
+          ""
+        ).normalize("NFD").split("; ");
+        voc.hints_hebrew = (
+          entry[7] ||
+          ""
+        ).normalize("NFD").split("; ").map(
+          hint => {
+            switch (hint) {
+              case "m.Sg.":
+                return "ז'";
+              case "f.Sg.":
+                return "נ'";
+              case "m.Pl.":
+                return "ז\"ר";
+              case "f.Pl.":
+                return "נ\"ר";
+              case "ugs.":
+                return "\u05e1'";
+              default:
+                return hint;
             }
-          ),
-          tries: 0
-        });
+          }
+        );
+
+        await idb.put(
+          "vocabulary",
+          voc
+        );
       }
     )
   );
-  await idb.add("lessons", {
-    name: "Lesson " + lesson,
-    number: Number(lesson)
-  });
+
+  let promises = [];
+  lessons.forEach(
+    lesson => promises.push(
+      idb.put(
+        "lessons",
+        { name: "Lesson " + lesson, number: Number(lesson) }
+      )
+    )
+  );
+  await Promise.all(promises);
+
   return true;
 }
 

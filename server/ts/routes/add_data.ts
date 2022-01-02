@@ -58,38 +58,39 @@ server.registerRoute(Server.APP_SCOPE + "/add_data", {
               );
             }
             lessons.add(Number(entry[0]));
-            await idb.add(
-              "vocabulary",
-              <Entry>{
-                lesson: Number(entry[0]),
-                id,
-                set_id,
-
-                german: (entry[4] || "").normalize("NFD").split("; "),
-                transcription: (entry[5] || "").normalize("NFD"),
-                hebrew: (entry[6] || "").normalize("NFD"),
-                hints_german: (entry[7] || "").normalize("NFD").split("; "),
-                hints_hebrew: (entry[7] || "").normalize("NFD").split("; ").map(
-                  hint => {
-                    switch (hint) {
-                      case "m.Sg.":
-                        return "ז'";
-                      case "f.Sg.":
-                        return "נ'";
-                      case "m.Pl.":
-                        return "ז\"ר";
-                      case "f.Pl.":
-                        return "נ\"ר";
-                      case "ugs.":
-                        return "\u05e1'";
-                      default:
-                        return hint;
-                    }
-                  }
-                ),
-                tries: 0
+            let voc = (await idb.get("vocabulary", { id }))[0] || <Entry>{
+              lesson: Number(entry[0]),
+              id,
+              set_id,
+              tries: 0
+            };
+            if (voc.set_id != set_id && await idb.count("vocabulary", { set_id }) == 0) {
+              await idb.delete("vocabulary_sets", { id: set_id });
+              sets.delete(set_id);
+            }
+            voc.set_id = set_id;
+            voc.german = (entry[4] || "").normalize("NFD").split("; ");
+            voc.transcription = (entry[5] || "").normalize("NFD");
+            voc.hebrew = (entry[6] || "").normalize("NFD");
+            voc.hints_german = (entry[7] || "").normalize("NFD").split("; ");
+            voc.hints_hebrew = (entry[7] || "").normalize("NFD").split("; ").map(hint => {
+              switch (hint) {
+                case "m.Sg.":
+                  return "ז'";
+                case "f.Sg.":
+                  return "נ'";
+                case "m.Pl.":
+                  return "ז\"ר";
+                case "f.Pl.":
+                  return "נ\"ר";
+                case "ugs.":
+                  return "\u05e1'";
+                default:
+                  return hint;
               }
-            );
+            });
+
+            await idb.put("vocabulary", voc);
           }
         )
       );
@@ -98,7 +99,7 @@ server.registerRoute(Server.APP_SCOPE + "/add_data", {
       lessons.forEach(
         lesson => {
           promises.push(
-            idb.add(
+            idb.put(
               "lessons",
               {
                 name: "Lesson " + lesson,

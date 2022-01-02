@@ -39,7 +39,7 @@
 8	39	8	38	Zeitungen	´itonim	עיתונים	m.Pl.
 8	40	8	40	kaufen	kone	קונה	
 8	41	8	40	kaufen	liknot	לקנות	
-8	42	8	42	welcher; der; die; das; dass	sche…	ש...	
+8	42	8	42	welcher; der; die; das; dass	sche…	ש…	
 8	43	8	43	schicken	scholeach	שולח	
 8	44	8	43	schicken	lischloach	לשלוח	
 8	45	8	45	[Währungseinheit]: Schekel	schekel	שקל	m. Sg.

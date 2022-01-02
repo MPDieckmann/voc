@@ -29,7 +29,7 @@
 7	29	7	28	Reisen; Ausflüge	tijulim	טיולים	m.Pl.
 7	30	7	30	können	jachol	יכול	
 7	31	7	31	wie viel	kama	כמה	
-7	32	7	32	zu dem; zu der	la…	לַ...	
+7	32	7	32	zu dem; zu der	la…	לַ…	
 7	33	7	33	Wort	mila	מילה	m.Sg.
 7	34	7	33	Wörter	milim	מילים	m.Pl.
 7	35	7	35	wann	mataj	מתי	

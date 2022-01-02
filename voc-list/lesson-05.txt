@@ -51,7 +51,7 @@
 5	51	5	51	alles; jede(r)	kol	כל	
 5	52	5	52	(Schul) Klasse	kita	כיתה	f.Sg.
 5	53	5	52	(Schul) Klassen	kitot	כיתות	f.Pl.
-5	54	5	54	alle; ganz	kol ha…	כל ה...	
+5	54	5	54	alle; ganz	kol ha…	כל ה…	
 5	55	5	55	wohin?	le`an?	לאן?	
 5	56	5	56	das Leben genießen	l´aßot chajim	לעשות חיים	
 5	57	5	57	Heft	machberet	מחברת	f.Sg.
