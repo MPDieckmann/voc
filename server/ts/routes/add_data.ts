@@ -8,8 +8,8 @@ server.registerRoute(Server.APP_SCOPE + "/add_data", {
     "print.css": Server.APP_SCOPE + "/client/css/print.css",
     "main.js": Server.APP_SCOPE + "/client/js/main.js",
     "layout.html": Server.APP_SCOPE + "/client/html/layout.html",
-    "add_data.html": Server.APP_SCOPE + "/client/html/page/add_data.html",
     "list.css": Server.APP_SCOPE + "/client/css/page/list.css",
+    "add_data.html": Server.APP_SCOPE + "/client/html/page/add_data.html",
     "add_data.css": Server.APP_SCOPE + "/client/css/page/add_data.css",
     "add_data.js": Server.APP_SCOPE + "/client/js/page/add_data.js"
   },
@@ -18,8 +18,8 @@ server.registerRoute(Server.APP_SCOPE + "/add_data", {
     this.add_style("main-css", this.files["main.css"].url);
     this.add_style("print-css", this.files["print.css"].url, "print");
     this.add_style("list-css", this.files["list.css"].url);
-    this.add_style("add_data-css", this.files["add_data.css"].url);
     this.add_script("main-js", this.files["main.js"].url);
+    this.add_style("add_data-css", this.files["add_data.css"].url);
     this.add_script("add_data-js", this.files["add_data.js"].url, "text/javascript", "body");
 
     if (this.POST["data"]) {

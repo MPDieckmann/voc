@@ -1,0 +1,73 @@
+<h4>Alte Benutzerdaten</h4>
+<label>
+  <textarea class="mpc-label-textarea" placeholder="{&quot;lessons&quot;:[]...">{{ generate_value(user_data, html) }}</textarea>
+</label>
+<h4>Neue Benutzerdaten</h4>
+<form class="card" method="post">
+  <p>Benutzerdaten einfügen</p>
+  <label for="data">
+    <textarea id="data" name="data" class="mpc-label-textarea" placeholder="{&quot;lessons&quot;:[]..."></textarea>
+  </label>
+  <button id="check_button" class="mpc-button mpc-button-type-button" type="button">
+    <span class="mpc-button-text">Überprüfen</span>
+  </button>
+  <div class="table-scroller">
+    <table>
+      <thead>
+        <tr>
+          <th>Nummer</th>
+          <th>Name</th>
+        </tr>
+      </thead>
+      <tbody id="lessons"></tbody>
+      <tfoot>
+        <tr>
+          <td colspan="2" id="lessons_info"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+  <div class="table-scroller">
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th>Deutsch</th>
+          <th>Transkription</th>
+          <th>Hebr&auml;isch</th>
+          <th>Hinweise</th>
+          <th><i>(Fehl)</i>Versuche</th>
+        </tr>
+      </thead>
+      <tbody id="vocabulary"></tbody>
+      <tfoot>
+        <tr>
+          <td colspan="8" id="vocabulary_info"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+  <div class="table-scroller">
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th>Lektion</th>
+          <th>Punkte</th>
+          <th>Versuche</th>
+        </tr>
+      </thead>
+      <tbody id="vocabulary_sets"></tbody>
+      <tfoot>
+        <tr>
+          <td colspan="4" id="vocabulary_sets_info"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+  <button id="submit_button" class="mpc-button mpc-button-type-submit" type="submit">
+    <span class="mpc-button-text">Hochladen</span>
+  </button>
+</form>
